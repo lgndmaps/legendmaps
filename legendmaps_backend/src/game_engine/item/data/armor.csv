@@ -1,0 +1,39 @@
+Type,Name,Def,Dodge,Block,CR min
+light,Cloth Armor,12,17,0,1
+light,Padded Armor,15,15,0,1
+light,Leather Armor,18,12,0,1
+boots,Slippers,0,12,0,0
+robes,Mithril Robe,20,10,0,3
+robes,Robe,10,10,0,1
+robes,Kimono,10,10,0,1
+light,Studded Leather Armor,22,8,0,1
+boots,Leather Sandals,1,10,0,1
+boots,Leather Shoes,3,7,0,0
+light,Leather Scale Mail,27,5,0,1
+hat,Hat,4,5,0,1
+hat,Cap,4,5,0,1
+boots,Mithril Shod Boots,12,5,0,3
+boots,Leather Boots,5,5,0,1
+shield,Leather Shield,0,3,15,1
+shield,Tower Shield,10,0,35,2
+shield,Kite Shield,5,0,30,2
+shield,Wooden Buckler,0,0,5,0
+shield,Metal Shield,0,0,25,1
+shield,Small Iron Shield,0,0,20,1
+shield,Wooden Shield,0,0,10,1
+helm,Steel Helm,10,0,0,2
+helm,Iron Helm,8,0,0,1
+helm,Iron Half Helm,6,0,0,1
+heavy,Mithril Scale Mail,33,0,0,2
+heavy,Breast Plate,30,0,0,2
+hat,Leather Hood,5,0,0,0
+hat,Iron Crown,2,0,0,1
+heavy,Mithril Chain Mail,36,-5,0,3
+boots,Steel Shod Boots,12,-5,0,2
+heavy,Mithril Plate Mail,45,-10,0,3
+heavy,Scale Mail,33,-10,0,1
+boots,Iron Shod Boots,10,-10,0,1
+heavy,Reinforced Scale Mail,38,-15,0,2
+heavy,Chain Mail,36,-20,0,2
+heavy,Reinforced Chain Mail,40,-25,0,2
+heavy,Plate Mail,45,-30,0,2

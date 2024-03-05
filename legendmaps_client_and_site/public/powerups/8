@@ -1,0 +1,18 @@
+{
+  "name": "[TEST] Legendary Weapon",
+  "id": "8",
+  "rarity": "3",
+  "type": "map",
+  "description": "A great hero fell here leaving behind her fabled weapon. A Legend Maps Power Up. ",
+  "image": "https://legendmaps.io/powerups/pup_plus.svg",
+  "attributes": [
+    {
+      "trait_type": "rarity",
+      "value": "epic"
+    },
+    {
+      "trait_type": "type",
+      "value": "map"
+    }
+  ]
+}

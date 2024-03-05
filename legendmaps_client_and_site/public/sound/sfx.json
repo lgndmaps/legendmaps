@@ -1,0 +1,147 @@
+{
+  "resources": [
+    "G:\\Work\\crypt\\legendmaps_site\\src\\sound_source\\sfx.mp3"
+  ],
+  "spritemap": {
+    "attack_blade_1": {
+      "start": 0,
+      "end": 1.1377777777777778,
+      "loop": false
+    },
+    "attack_blade_2": {
+      "start": 3,
+      "end": 4.25,
+      "loop": false
+    },
+    "attack_bludgeon_1": {
+      "start": 6,
+      "end": 7.371337868480726,
+      "loop": false
+    },
+    "attack_bludgeon_2": {
+      "start": 9,
+      "end": 10.362675736961451,
+      "loop": false
+    },
+    "attack_bow": {
+      "start": 12,
+      "end": 13.499138321995465,
+      "loop": false
+    },
+    "attack_pierce_1": {
+      "start": 15,
+      "end": 15.75,
+      "loop": false
+    },
+    "attack_pierce_2": {
+      "start": 17,
+      "end": 17.75,
+      "loop": false
+    },
+    "attack_wand": {
+      "start": 19,
+      "end": 20.402539682539683,
+      "loop": false
+    },
+    "blocked": {
+      "start": 22,
+      "end": 23,
+      "loop": false
+    },
+    "hit_arcane": {
+      "start": 24,
+      "end": 25.402539682539683,
+      "loop": false
+    },
+    "hit_blade_1": {
+      "start": 27,
+      "end": 28.14530612244898,
+      "loop": false
+    },
+    "hit_blade_2": {
+      "start": 30,
+      "end": 31.157278911564624,
+      "loop": false
+    },
+    "hit_bludgeon_1": {
+      "start": 33,
+      "end": 33.93251700680272,
+      "loop": false
+    },
+    "hit_bludgeon_2": {
+      "start": 35,
+      "end": 35.94122448979592,
+      "loop": false
+    },
+    "hit_cold": {
+      "start": 37,
+      "end": 39.27034013605442,
+      "loop": false
+    },
+    "hit_divine": {
+      "start": 41,
+      "end": 44,
+      "loop": false
+    },
+    "hit_electric": {
+      "start": 45,
+      "end": 47.55,
+      "loop": false
+    },
+    "hit_fire": {
+      "start": 49,
+      "end": 51.45095238095238,
+      "loop": false
+    },
+    "hit_necrotic": {
+      "start": 53,
+      "end": 55.00959183673469,
+      "loop": false
+    },
+    "hit_pierce_1": {
+      "start": 57,
+      "end": 58,
+      "loop": false
+    },
+    "hit_pierce_2": {
+      "start": 59,
+      "end": 59.968662131519274,
+      "loop": false
+    },
+    "hit_poison": {
+      "start": 61,
+      "end": 62.845555555555556,
+      "loop": false
+    },
+    "magic_freeze": {
+      "start": 64,
+      "end": 69.07195011337869,
+      "loop": false
+    },
+    "magic_teleport": {
+      "start": 71,
+      "end": 74.97560090702947,
+      "loop": false
+    },
+    "miss_1": {
+      "start": 76,
+      "end": 76.75,
+      "loop": false
+    },
+    "miss_2": {
+      "start": 78,
+      "end": 78.87501133786849,
+      "loop": false
+    },
+    "miss_3": {
+      "start": 80,
+      "end": 81,
+      "loop": false
+    },
+    "sfx": {
+      "start": 82,
+      "end": 211,
+      "loop": false
+    }
+  }
+}

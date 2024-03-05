@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "lib": ["dom", "dom.iterable", "esnext"],
+        "allowJs": true,
+        "skipLibCheck": true,
+        "strict": false,
+        "forceConsistentCasingInFileNames": true,
+        "noEmit": true,
+        "esModuleInterop": true,
+        "module": "commonjs",
+        "strictPropertyInitialization": false,
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "isolatedModules": true,
+        "jsx": "preserve",
+        "incremental": true,
+        "experimentalDecorators": true
+    },
+    "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "node-scripts.js", "src/game/types/globalTypes.ts"],
+    "exclude": ["node_modules"]
+}

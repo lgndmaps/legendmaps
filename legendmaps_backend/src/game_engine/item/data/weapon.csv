@@ -1,0 +1,27 @@
+Type,Name,min damage,max damage,damage type,two-handed?,range,recharge time,crit bonus,block bonus,min CR,affinity
+sword,Long Sword,8,24,blade,FALSE,1,0,0,0,1,br
+sword,Short Sword,6,16,blade,FALSE,1,0,0,0,0,br
+sword,Zweihander,16,28,blade,TRUE,1,0,0,10,2,br
+hammer,Club,8,18,bludgeon,FALSE,1,0,0,0,0,br
+hammer,Hammer,12,24,bludgeon,FALSE,1,0,0,0,1,br
+hammer,Mace,14,26,bludgeon,FALSE,1,0,0,0,1,br
+bow,Sling,6,12,bludgeon,TRUE,4,0,0,0,0,
+bow,Long Bow,8,16,pierce,TRUE,5,0,0,0,1,ag
+hammer,Warhammer,16,28,bludgeon,TRUE,1,0,0,0,,
+bow,Short Bow,6,12,pierce,TRUE,3,0,0,0,0,ag
+bow,Crossbow,7,14,pierce,TRUE,4,0,0,0,0,ag
+bow,Hand Crossbow,5,11,pierce,FALSE,3,0,0,0,0,ag
+spear,Short Spear,6,16,blade,FALSE,1,0,0,0,0,
+axe,Axe,4,24,blade,FALSE,1,0,0,0,1,br
+axe,Battle Axe,12,32,blade,TRUE,1,0,0,0,2,br
+axe,Hand Axe,4,16,blade,FALSE,1,0,0,0,0,br
+spear,Spear,10,24,pierce,TRUE,1,0,0,5,0,br
+spear,Halberd,12,26,blade,TRUE,1,0,0,5,1,br
+wand,Wand,2,20,arcane,FALSE,15,6,0,0,0,sp
+staff,Staff,6,16,bludgeon,TRUE,1,10,0,5,0,sp
+sword,Rapier,4,20,piercing,FALSE,1,0,3,0,1,ag
+dagger,Dagger,6,14,blade,FALSE,1,0,5,0,0,ag
+spear,Trident,15,22,pierce,TRUE,1,0,5,5,2,br
+sword,Cutlass,4,24,blade,FALSE,1,0,5,0,1,br
+sword,Katana,4,20,blade,FALSE,1,0,7,0,1,br
+dagger,Stiletto,8,10,pierce,FALSE,1,0,10,0,1,ag

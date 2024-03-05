@@ -1,0 +1,1832 @@
+{
+    "traits": [
+        { "name": "Plot Armor", "percentage": 0.0011379153 },
+        { "name": "Polymath", "percentage": 0.0030723714 },
+        { "name": "Glitch: Ascii", "percentage": 0.0061447428 },
+        { "name": "Oafish", "percentage": 0.0073964497 },
+        { "name": "Troll Blood", "percentage": 0.0077378243 },
+        { "name": "Sneaky", "percentage": 0.0078516158 },
+        { "name": "Innocent", "percentage": 0.0080791989 },
+        { "name": "Chosen One", "percentage": 0.0080791989 },
+        { "name": "Lucky Strike", "percentage": 0.008534365 },
+        { "name": "Escape Artist", "percentage": 0.008534365 },
+        { "name": "Fey Touched", "percentage": 0.0087619481 },
+        { "name": "Jeweler", "percentage": 0.0088757396 },
+        { "name": "Insulated", "percentage": 0.0089895312 },
+        { "name": "Safecracker", "percentage": 0.0091033227 },
+        { "name": "Skeptic", "percentage": 0.0093309058 },
+        { "name": "H.P. Hatecraft", "percentage": 0.0093309058 },
+        { "name": "Lumberjack", "percentage": 0.0096722804 },
+        { "name": "Treasure Hunter", "percentage": 0.0097860719 },
+        { "name": "Underdog", "percentage": 0.0098998635 },
+        { "name": "Nimble", "percentage": 0.0102412381 },
+        { "name": "Locksmith", "percentage": 0.0103550296 },
+        { "name": "Glitch: CGA", "percentage": 0.0106964042 },
+        { "name": "Cutpurse", "percentage": 0.0106964042 },
+        { "name": "Eagle Eye", "percentage": 0.0108101957 },
+        { "name": "Glitch: Graph Paper", "percentage": 0.0114929449 },
+        { "name": "Fisher", "percentage": 0.0116067365 },
+        { "name": "Glitch: Terminal", "percentage": 0.0120619026 },
+        { "name": "Glitch: Rainbow", "percentage": 0.0124032772 },
+        { "name": "Reliable", "percentage": 0.0135411925 },
+        { "name": "Town Watch", "percentage": 0.0149066909 },
+        { "name": "Well-Grounded", "percentage": 0.0155894401 },
+        { "name": "Tinkerer", "percentage": 0.0161583978 },
+        { "name": "Paranoid", "percentage": 0.0162721893 },
+        { "name": "Sludge Grudge", "percentage": 0.0169549386 },
+        { "name": "People Person", "percentage": 0.0170687301 },
+        { "name": "Stress Eater", "percentage": 0.0174101047 },
+        { "name": "Silver Spoon", "percentage": 0.0177514793 },
+        { "name": "Unpierceable", "percentage": 0.0179790624 },
+        { "name": "Assassin", "percentage": 0.0179790624 },
+        { "name": "Vivacious", "percentage": 0.01854802 },
+        { "name": "Apprentice", "percentage": 0.01854802 },
+        { "name": "Fletcher", "percentage": 0.0186618116 },
+        { "name": "Unstoppable", "percentage": 0.0187756031 },
+        { "name": "Clean Freak", "percentage": 0.0190031862 },
+        { "name": "Fairy Tale Hater", "percentage": 0.0195721438 },
+        { "name": "Rune Reader", "percentage": 0.0195721438 },
+        { "name": "Spelunker", "percentage": 0.0199135184 },
+        { "name": "Squire", "percentage": 0.0201411015 },
+        { "name": "Thick Skin", "percentage": 0.0207100592 },
+        { "name": "Smith's Apprentice", "percentage": 0.0208238507 },
+        { "name": "Initiate", "percentage": 0.0212790168 },
+        { "name": "Deceptive", "percentage": 0.0216203914 },
+        { "name": "Slugger", "percentage": 0.021961766 },
+        { "name": "Intimidating", "percentage": 0.0229858898 },
+        { "name": "Scribe", "percentage": 0.028561675 },
+        { "name": "Pauper", "percentage": 0.0289030496 },
+        { "name": "Low Metabolism", "percentage": 0.0301547565 },
+        { "name": "Awkward", "percentage": 0.030268548 },
+        { "name": "Necrophobic", "percentage": 0.0303823396 },
+        { "name": "Procrastinator", "percentage": 0.0308375057 },
+        { "name": "Realist", "percentage": 0.0310650888 },
+        { "name": "Physician", "percentage": 0.0315202549 },
+        { "name": "Goth", "percentage": 0.0316340464 },
+        { "name": "Hunter", "percentage": 0.031975421 },
+        { "name": "Sanctimonious", "percentage": 0.0320892126 },
+        { "name": "Gravedigger", "percentage": 0.0320892126 },
+        { "name": "Fire Walker", "percentage": 0.0327719618 },
+        { "name": "Temple Charter", "percentage": 0.0328857533 },
+        { "name": "Trapper", "percentage": 0.0329995448 },
+        { "name": "Gourmand", "percentage": 0.0329995448 },
+        { "name": "Mountaineer", "percentage": 0.0329995448 },
+        { "name": "Naturalist", "percentage": 0.0331133364 },
+        { "name": "Runs Hot", "percentage": 0.0331133364 },
+        { "name": "Charming", "percentage": 0.0331133364 },
+        { "name": "Grizzled Veteran", "percentage": 0.0333409194 },
+        { "name": "Alchemist", "percentage": 0.033682294 },
+        { "name": "Focused", "percentage": 0.033682294 },
+        { "name": "Greenskeeper", "percentage": 0.0341374602 },
+        { "name": "Hardy Stock", "percentage": 0.0341374602 },
+        { "name": "Merchant", "percentage": 0.0341374602 },
+        { "name": "Scavenger", "percentage": 0.0342512517 },
+        { "name": "Fey Slayer", "percentage": 0.0347064178 },
+        { "name": "Strong Metabolism", "percentage": 0.0348202094 },
+        { "name": "Sand Crawler", "percentage": 0.0348202094 },
+        { "name": "Big Drinker", "percentage": 0.0350477924 },
+        { "name": "Northerner", "percentage": 0.035161584 },
+        { "name": "Profligate", "percentage": 0.035161584 },
+        { "name": "Brute", "percentage": 0.0352753755 },
+        { "name": "Misanthrope", "percentage": 0.0352753755 },
+        { "name": "Ruins Raider", "percentage": 0.0359581247 },
+        { "name": "Icy Veins", "percentage": 0.0361857078 },
+        { "name": "Librarian", "percentage": 0.0362994993 },
+        { "name": "Hell Walker", "percentage": 0.0366408739 },
+        { "name": "Demonslayer", "percentage": 0.0367546655 },
+        { "name": "Oblivious", "percentage": 0.0380063723 },
+        { "name": "Glitch Walker", "percentage": 0.0527992717 }
+    ],
+    "art": [
+        {
+            "name": "unique",
+            "percentage": 0.0011379153,
+            "category": "art_special",
+            "categoryRank": 1,
+            "categoryTotal": 23
+        },
+        {
+            "name": "delda's cage",
+            "percentage": 0.0012517069,
+            "category": "art_head",
+            "categoryRank": 1,
+            "categoryTotal": 113
+        },
+        {
+            "name": "black iron close helm",
+            "percentage": 0.0015930815,
+            "category": "art_head",
+            "categoryRank": 2,
+            "categoryTotal": 113
+        },
+        {
+            "name": "bronze sallet",
+            "percentage": 0.0015930815,
+            "category": "art_head",
+            "categoryRank": 3,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 47",
+            "percentage": 0.001706873,
+            "category": "art_head",
+            "categoryRank": 4,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 49",
+            "percentage": 0.0019344561,
+            "category": "art_head",
+            "categoryRank": 5,
+            "categoryTotal": 113
+        },
+        {
+            "name": "pigface",
+            "percentage": 0.0021620391,
+            "category": "art_head",
+            "categoryRank": 6,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 18",
+            "percentage": 0.0021620391,
+            "category": "art_head",
+            "categoryRank": 7,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 46",
+            "percentage": 0.0022758307,
+            "category": "art_head",
+            "categoryRank": 8,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 44",
+            "percentage": 0.0022758307,
+            "category": "art_head",
+            "categoryRank": 9,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 53",
+            "percentage": 0.0022758307,
+            "category": "art_head",
+            "categoryRank": 10,
+            "categoryTotal": 113
+        },
+        {
+            "name": "full metal armet",
+            "percentage": 0.0023896222,
+            "category": "art_head",
+            "categoryRank": 11,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 19",
+            "percentage": 0.0023896222,
+            "category": "art_head",
+            "categoryRank": 12,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 21",
+            "percentage": 0.0025034137,
+            "category": "art_head",
+            "categoryRank": 13,
+            "categoryTotal": 113
+        },
+        {
+            "name": "tear scar",
+            "percentage": 0.0025034137,
+            "category": "art_special",
+            "categoryRank": 2,
+            "categoryTotal": 23
+        },
+        {
+            "name": "runic scar",
+            "percentage": 0.0026172053,
+            "category": "art_special",
+            "categoryRank": 3,
+            "categoryTotal": 23
+        },
+        {
+            "name": "runic wards",
+            "percentage": 0.0026172053,
+            "category": "art_special",
+            "categoryRank": 4,
+            "categoryTotal": 23
+        },
+        {
+            "name": "hair 50",
+            "percentage": 0.0027309968,
+            "category": "art_head",
+            "categoryRank": 14,
+            "categoryTotal": 113
+        },
+        {
+            "name": "kettle head helm",
+            "percentage": 0.0027309968,
+            "category": "art_head",
+            "categoryRank": 15,
+            "categoryTotal": 113
+        },
+        {
+            "name": "dragon's guard helm",
+            "percentage": 0.0027309968,
+            "category": "art_head",
+            "categoryRank": 16,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 34",
+            "percentage": 0.0028447883,
+            "category": "art_head",
+            "categoryRank": 17,
+            "categoryTotal": 113
+        },
+        {
+            "name": "eye of the deep",
+            "percentage": 0.0028447883,
+            "category": "art_special",
+            "categoryRank": 5,
+            "categoryTotal": 23
+        },
+        {
+            "name": "hair 52",
+            "percentage": 0.0032999545,
+            "category": "art_head",
+            "categoryRank": 18,
+            "categoryTotal": 113
+        },
+        {
+            "name": "stalker's eye",
+            "percentage": 0.003413746,
+            "category": "art_special",
+            "categoryRank": 6,
+            "categoryTotal": 23
+        },
+        {
+            "name": "clipped light armet",
+            "percentage": 0.003413746,
+            "category": "art_head",
+            "categoryRank": 19,
+            "categoryTotal": 113
+        },
+        {
+            "name": "wrapped countenance",
+            "percentage": 0.0039827037,
+            "category": "art_head",
+            "categoryRank": 20,
+            "categoryTotal": 113
+        },
+        {
+            "name": "snarling scar",
+            "percentage": 0.0039827037,
+            "category": "art_special",
+            "categoryRank": 7,
+            "categoryTotal": 23
+        },
+        {
+            "name": "hair 38",
+            "percentage": 0.0040964952,
+            "category": "art_head",
+            "categoryRank": 21,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 6",
+            "percentage": 0.0042102868,
+            "category": "art_head",
+            "categoryRank": 22,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 48",
+            "percentage": 0.0042102868,
+            "category": "art_head",
+            "categoryRank": 23,
+            "categoryTotal": 113
+        },
+        {
+            "name": "stout frog's mouth",
+            "percentage": 0.0043240783,
+            "category": "art_head",
+            "categoryRank": 24,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 45",
+            "percentage": 0.0043240783,
+            "category": "art_head",
+            "categoryRank": 25,
+            "categoryTotal": 113
+        },
+        {
+            "name": "enchanted mezzmer",
+            "percentage": 0.0044378698,
+            "category": "art_armor",
+            "categoryRank": 1,
+            "categoryTotal": 49
+        },
+        {
+            "name": "hair 24",
+            "percentage": 0.0044378698,
+            "category": "art_head",
+            "categoryRank": 26,
+            "categoryTotal": 113
+        },
+        {
+            "name": "tally tattoo",
+            "percentage": 0.0044378698,
+            "category": "art_special",
+            "categoryRank": 8,
+            "categoryTotal": 23
+        },
+        {
+            "name": "hair 7",
+            "percentage": 0.0045516614,
+            "category": "art_head",
+            "categoryRank": 27,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 23",
+            "percentage": 0.0045516614,
+            "category": "art_head",
+            "categoryRank": 28,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 54",
+            "percentage": 0.0046654529,
+            "category": "art_head",
+            "categoryRank": 29,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 41",
+            "percentage": 0.0046654529,
+            "category": "art_head",
+            "categoryRank": 30,
+            "categoryTotal": 113
+        },
+        {
+            "name": "alchemist's cap",
+            "percentage": 0.0047792444,
+            "category": "art_head",
+            "categoryRank": 31,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 22",
+            "percentage": 0.0047792444,
+            "category": "art_head",
+            "categoryRank": 32,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 28",
+            "percentage": 0.004893036,
+            "category": "art_head",
+            "categoryRank": 33,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 59",
+            "percentage": 0.0050068275,
+            "category": "art_head",
+            "categoryRank": 34,
+            "categoryTotal": 113
+        },
+        {
+            "name": "half helm horned",
+            "percentage": 0.005120619,
+            "category": "art_head",
+            "categoryRank": 35,
+            "categoryTotal": 113
+        },
+        {
+            "name": "crowned great helm",
+            "percentage": 0.005120619,
+            "category": "art_head",
+            "categoryRank": 36,
+            "categoryTotal": 113
+        },
+        {
+            "name": "sign of sorrow",
+            "percentage": 0.0052344106,
+            "category": "art_special",
+            "categoryRank": 9,
+            "categoryTotal": 23
+        },
+        {
+            "name": "hair 9",
+            "percentage": 0.0053482021,
+            "category": "art_head",
+            "categoryRank": 37,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 17",
+            "percentage": 0.0054619936,
+            "category": "art_head",
+            "categoryRank": 38,
+            "categoryTotal": 113
+        },
+        {
+            "name": "dividing scar",
+            "percentage": 0.0054619936,
+            "category": "art_special",
+            "categoryRank": 10,
+            "categoryTotal": 23
+        },
+        {
+            "name": "spear scar",
+            "percentage": 0.0054619936,
+            "category": "art_special",
+            "categoryRank": 11,
+            "categoryTotal": 23
+        },
+        {
+            "name": "iron armsmen",
+            "percentage": 0.0055757852,
+            "category": "art_head",
+            "categoryRank": 39,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 61",
+            "percentage": 0.0055757852,
+            "category": "art_head",
+            "categoryRank": 40,
+            "categoryTotal": 113
+        },
+        {
+            "name": "painted mask",
+            "percentage": 0.0056895767,
+            "category": "art_special",
+            "categoryRank": 12,
+            "categoryTotal": 23
+        },
+        {
+            "name": "eyes of the fey",
+            "percentage": 0.0058033682,
+            "category": "art_special",
+            "categoryRank": 13,
+            "categoryTotal": 23
+        },
+        {
+            "name": "hair 13",
+            "percentage": 0.0058033682,
+            "category": "art_head",
+            "categoryRank": 41,
+            "categoryTotal": 113
+        },
+        {
+            "name": "beast claw scar",
+            "percentage": 0.0058033682,
+            "category": "art_special",
+            "categoryRank": 14,
+            "categoryTotal": 23
+        },
+        {
+            "name": "hair 25",
+            "percentage": 0.0058033682,
+            "category": "art_head",
+            "categoryRank": 42,
+            "categoryTotal": 113
+        },
+        {
+            "name": "eyes of the dramock",
+            "percentage": 0.0059171598,
+            "category": "art_special",
+            "categoryRank": 15,
+            "categoryTotal": 23
+        },
+        {
+            "name": "hair 16",
+            "percentage": 0.0059171598,
+            "category": "art_head",
+            "categoryRank": 43,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 37",
+            "percentage": 0.0060309513,
+            "category": "art_head",
+            "categoryRank": 44,
+            "categoryTotal": 113
+        },
+        {
+            "name": "rizellda's formal",
+            "percentage": 0.0060309513,
+            "category": "art_armor",
+            "categoryRank": 2,
+            "categoryTotal": 49
+        },
+        {
+            "name": "dagger scar",
+            "percentage": 0.0061447428,
+            "category": "art_special",
+            "categoryRank": 16,
+            "categoryTotal": 23
+        },
+        {
+            "name": "dragon shield",
+            "percentage": 0.0062585344,
+            "category": "art_shield",
+            "categoryRank": 1,
+            "categoryTotal": 8
+        },
+        {
+            "name": "talon scar",
+            "percentage": 0.0062585344,
+            "category": "art_special",
+            "categoryRank": 17,
+            "categoryTotal": 23
+        },
+        {
+            "name": "hair 36",
+            "percentage": 0.0062585344,
+            "category": "art_head",
+            "categoryRank": 45,
+            "categoryTotal": 113
+        },
+        {
+            "name": "channeler's hat",
+            "percentage": 0.0063723259,
+            "category": "art_head",
+            "categoryRank": 46,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 20",
+            "percentage": 0.0064861174,
+            "category": "art_head",
+            "categoryRank": 47,
+            "categoryTotal": 113
+        },
+        {
+            "name": "warding runes",
+            "percentage": 0.0067137005,
+            "category": "art_special",
+            "categoryRank": 18,
+            "categoryTotal": 23
+        },
+        {
+            "name": "traveller's hood",
+            "percentage": 0.0069412836,
+            "category": "art_head",
+            "categoryRank": 48,
+            "categoryTotal": 113
+        },
+        {
+            "name": "sword scar",
+            "percentage": 0.0069412836,
+            "category": "art_special",
+            "categoryRank": 19,
+            "categoryTotal": 23
+        },
+        {
+            "name": "bolger's lament",
+            "percentage": 0.0070550751,
+            "category": "art_head",
+            "categoryRank": 49,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 31",
+            "percentage": 0.0071688666,
+            "category": "art_head",
+            "categoryRank": 50,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hood of the feared",
+            "percentage": 0.0071688666,
+            "category": "art_head",
+            "categoryRank": 51,
+            "categoryTotal": 113
+        },
+        {
+            "name": "mountain toque",
+            "percentage": 0.0072826582,
+            "category": "art_head",
+            "categoryRank": 52,
+            "categoryTotal": 113
+        },
+        {
+            "name": "treasure hunter's backpack",
+            "percentage": 0.0072826582,
+            "category": "art_gear",
+            "categoryRank": 1,
+            "categoryTotal": 5
+        },
+        {
+            "name": "hair 39",
+            "percentage": 0.0076240328,
+            "category": "art_head",
+            "categoryRank": 53,
+            "categoryTotal": 113
+        },
+        {
+            "name": "forlorn hood",
+            "percentage": 0.0078516158,
+            "category": "art_head",
+            "categoryRank": 54,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 30",
+            "percentage": 0.0078516158,
+            "category": "art_head",
+            "categoryRank": 55,
+            "categoryTotal": 113
+        },
+        {
+            "name": "occult bonnet",
+            "percentage": 0.0079654074,
+            "category": "art_head",
+            "categoryRank": 56,
+            "categoryTotal": 113
+        },
+        {
+            "name": "the dummy helm",
+            "percentage": 0.0079654074,
+            "category": "art_head",
+            "categoryRank": 57,
+            "categoryTotal": 113
+        },
+        {
+            "name": "collared mezzmer",
+            "percentage": 0.0081929904,
+            "category": "art_armor",
+            "categoryRank": 3,
+            "categoryTotal": 49
+        },
+        {
+            "name": "hair 12",
+            "percentage": 0.008306782,
+            "category": "art_head",
+            "categoryRank": 58,
+            "categoryTotal": 113
+        },
+        {
+            "name": "dandy's favor",
+            "percentage": 0.008306782,
+            "category": "art_head",
+            "categoryRank": 59,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 29",
+            "percentage": 0.0084205735,
+            "category": "art_head",
+            "categoryRank": 60,
+            "categoryTotal": 113
+        },
+        {
+            "name": "skull & rose half helm",
+            "percentage": 0.008534365,
+            "category": "art_head",
+            "categoryRank": 61,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 27",
+            "percentage": 0.0086481566,
+            "category": "art_head",
+            "categoryRank": 62,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 3",
+            "percentage": 0.0087619481,
+            "category": "art_head",
+            "categoryRank": 63,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 42",
+            "percentage": 0.0087619481,
+            "category": "art_head",
+            "categoryRank": 64,
+            "categoryTotal": 113
+        },
+        {
+            "name": "delve helm",
+            "percentage": 0.0089895312,
+            "category": "art_head",
+            "categoryRank": 65,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 35",
+            "percentage": 0.0092171142,
+            "category": "art_head",
+            "categoryRank": 66,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 1",
+            "percentage": 0.0092171142,
+            "category": "art_head",
+            "categoryRank": 67,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 11",
+            "percentage": 0.0093309058,
+            "category": "art_head",
+            "categoryRank": 68,
+            "categoryTotal": 113
+        },
+        {
+            "name": "game's great helm",
+            "percentage": 0.0093309058,
+            "category": "art_head",
+            "categoryRank": 69,
+            "categoryTotal": 113
+        },
+        {
+            "name": "legend shield",
+            "percentage": 0.0093309058,
+            "category": "art_shield",
+            "categoryRank": 2,
+            "categoryTotal": 8
+        },
+        {
+            "name": "hair 2",
+            "percentage": 0.0093309058,
+            "category": "art_head",
+            "categoryRank": 70,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 56",
+            "percentage": 0.0094446973,
+            "category": "art_head",
+            "categoryRank": 71,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 14",
+            "percentage": 0.0095584888,
+            "category": "art_head",
+            "categoryRank": 72,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 43",
+            "percentage": 0.0095584888,
+            "category": "art_head",
+            "categoryRank": 73,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 15",
+            "percentage": 0.0095584888,
+            "category": "art_head",
+            "categoryRank": 74,
+            "categoryTotal": 113
+        },
+        {
+            "name": "augur targe",
+            "percentage": 0.0096722804,
+            "category": "art_shield",
+            "categoryRank": 3,
+            "categoryTotal": 8
+        },
+        {
+            "name": "hair 5",
+            "percentage": 0.0096722804,
+            "category": "art_head",
+            "categoryRank": 75,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 8",
+            "percentage": 0.0097860719,
+            "category": "art_head",
+            "categoryRank": 76,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 58",
+            "percentage": 0.0097860719,
+            "category": "art_head",
+            "categoryRank": 77,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 4",
+            "percentage": 0.0098998635,
+            "category": "art_head",
+            "categoryRank": 78,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 57",
+            "percentage": 0.0098998635,
+            "category": "art_head",
+            "categoryRank": 79,
+            "categoryTotal": 113
+        },
+        {
+            "name": "plain's hide and horn armor",
+            "percentage": 0.0104688211,
+            "category": "art_armor",
+            "categoryRank": 4,
+            "categoryTotal": 49
+        },
+        {
+            "name": "eyes of the witness",
+            "percentage": 0.0106964042,
+            "category": "art_special",
+            "categoryRank": 20,
+            "categoryTotal": 23
+        },
+        {
+            "name": "skull and roses chain",
+            "percentage": 0.0111515703,
+            "category": "art_armor",
+            "categoryRank": 5,
+            "categoryTotal": 49
+        },
+        {
+            "name": "crystal wand",
+            "percentage": 0.0112653619,
+            "category": "art_weapon",
+            "categoryRank": 1,
+            "categoryTotal": 50
+        },
+        {
+            "name": "normal nasal helm",
+            "percentage": 0.0112653619,
+            "category": "art_head",
+            "categoryRank": 80,
+            "categoryTotal": 113
+        },
+        {
+            "name": "mark of fury",
+            "percentage": 0.0113791534,
+            "category": "art_special",
+            "categoryRank": 21,
+            "categoryTotal": 23
+        },
+        {
+            "name": "naga inquistor cap",
+            "percentage": 0.0113791534,
+            "category": "art_head",
+            "categoryRank": 81,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 32",
+            "percentage": 0.0114929449,
+            "category": "art_head",
+            "categoryRank": 82,
+            "categoryTotal": 113
+        },
+        {
+            "name": "shamanic staff",
+            "percentage": 0.0114929449,
+            "category": "art_weapon",
+            "categoryRank": 2,
+            "categoryTotal": 50
+        },
+        {
+            "name": "hair 26",
+            "percentage": 0.0116067365,
+            "category": "art_head",
+            "categoryRank": 83,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 40",
+            "percentage": 0.0116067365,
+            "category": "art_head",
+            "categoryRank": 84,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hunter's eye",
+            "percentage": 0.011720528,
+            "category": "art_special",
+            "categoryRank": 22,
+            "categoryTotal": 23
+        },
+        {
+            "name": "horned defender",
+            "percentage": 0.0119481111,
+            "category": "art_head",
+            "categoryRank": 85,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 33",
+            "percentage": 0.0119481111,
+            "category": "art_head",
+            "categoryRank": 86,
+            "categoryTotal": 113
+        },
+        {
+            "name": "greater staff of spheres",
+            "percentage": 0.0120619026,
+            "category": "art_weapon",
+            "categoryRank": 3,
+            "categoryTotal": 50
+        },
+        {
+            "name": "banded sprangenhelm",
+            "percentage": 0.0120619026,
+            "category": "art_head",
+            "categoryRank": 87,
+            "categoryTotal": 113
+        },
+        {
+            "name": "rictus visage",
+            "percentage": 0.0120619026,
+            "category": "art_head",
+            "categoryRank": 88,
+            "categoryTotal": 113
+        },
+        {
+            "name": "fine magus cone",
+            "percentage": 0.0122894857,
+            "category": "art_head",
+            "categoryRank": 89,
+            "categoryTotal": 113
+        },
+        {
+            "name": "naga healer's garb",
+            "percentage": 0.0124032772,
+            "category": "art_armor",
+            "categoryRank": 6,
+            "categoryTotal": 49
+        },
+        {
+            "name": "naga skin robe",
+            "percentage": 0.0125170687,
+            "category": "art_armor",
+            "categoryRank": 7,
+            "categoryTotal": 49
+        },
+        {
+            "name": "bravo's plate",
+            "percentage": 0.0125170687,
+            "category": "art_armor",
+            "categoryRank": 8,
+            "categoryTotal": 49
+        },
+        {
+            "name": "regal long sword",
+            "percentage": 0.0126308603,
+            "category": "art_weapon",
+            "categoryRank": 4,
+            "categoryTotal": 50
+        },
+        {
+            "name": "dark bargains wand",
+            "percentage": 0.0126308603,
+            "category": "art_weapon",
+            "categoryRank": 5,
+            "categoryTotal": 50
+        },
+        {
+            "name": "footman's cap",
+            "percentage": 0.0127446518,
+            "category": "art_head",
+            "categoryRank": 90,
+            "categoryTotal": 113
+        },
+        {
+            "name": "wand of the claw",
+            "percentage": 0.0130860264,
+            "category": "art_weapon",
+            "categoryRank": 6,
+            "categoryTotal": 50
+        },
+        {
+            "name": "runic bow",
+            "percentage": 0.0135411925,
+            "category": "art_weapon",
+            "categoryRank": 7,
+            "categoryTotal": 50
+        },
+        {
+            "name": "gilded blade",
+            "percentage": 0.0135411925,
+            "category": "art_weapon",
+            "categoryRank": 8,
+            "categoryTotal": 50
+        },
+        {
+            "name": "cavalry half helm",
+            "percentage": 0.0137687756,
+            "category": "art_head",
+            "categoryRank": 91,
+            "categoryTotal": 113
+        },
+        {
+            "name": "premunir",
+            "percentage": 0.0142239417,
+            "category": "art_head",
+            "categoryRank": 92,
+            "categoryTotal": 113
+        },
+        {
+            "name": "ragged cloak",
+            "percentage": 0.0144515248,
+            "category": "art_head",
+            "categoryRank": 93,
+            "categoryTotal": 113
+        },
+        {
+            "name": "runic vision",
+            "percentage": 0.0144515248,
+            "category": "art_special",
+            "categoryRank": 23,
+            "categoryTotal": 23
+        },
+        {
+            "name": "climber's backpack",
+            "percentage": 0.0147928994,
+            "category": "art_gear",
+            "categoryRank": 2,
+            "categoryTotal": 5
+        },
+        {
+            "name": "bedroll",
+            "percentage": 0.0149066909,
+            "category": "art_gear",
+            "categoryRank": 3,
+            "categoryTotal": 5
+        },
+        {
+            "name": "ornate quiver",
+            "percentage": 0.0149066909,
+            "category": "art_gear",
+            "categoryRank": 4,
+            "categoryTotal": 5
+        },
+        {
+            "name": "buckled conjurer hat",
+            "percentage": 0.0154756486,
+            "category": "art_head",
+            "categoryRank": 94,
+            "categoryTotal": 113
+        },
+        {
+            "name": "weathered shield",
+            "percentage": 0.0159308147,
+            "category": "art_shield",
+            "categoryRank": 4,
+            "categoryTotal": 8
+        },
+        {
+            "name": "sword and moon bonnet",
+            "percentage": 0.0161583978,
+            "category": "art_head",
+            "categoryRank": 95,
+            "categoryTotal": 113
+        },
+        {
+            "name": "knight's shield",
+            "percentage": 0.0164997724,
+            "category": "art_shield",
+            "categoryRank": 5,
+            "categoryTotal": 8
+        },
+        {
+            "name": "bountiful backpack",
+            "percentage": 0.0167273555,
+            "category": "art_gear",
+            "categoryRank": 5,
+            "categoryTotal": 5
+        },
+        {
+            "name": "studded mask",
+            "percentage": 0.0167273555,
+            "category": "art_head",
+            "categoryRank": 96,
+            "categoryTotal": 113
+        },
+        { "name": "pole", "percentage": 0.016841147, "category": "art_weapon", "categoryRank": 9, "categoryTotal": 50 },
+        {
+            "name": "stone axe",
+            "percentage": 0.0169549386,
+            "category": "art_weapon",
+            "categoryRank": 10,
+            "categoryTotal": 50
+        },
+        {
+            "name": "morning glory",
+            "percentage": 0.0170687301,
+            "category": "art_weapon",
+            "categoryRank": 11,
+            "categoryTotal": 50
+        },
+        {
+            "name": "bo stick",
+            "percentage": 0.0174101047,
+            "category": "art_weapon",
+            "categoryRank": 12,
+            "categoryTotal": 50
+        },
+        {
+            "name": "old god's crown",
+            "percentage": 0.0174101047,
+            "category": "art_head",
+            "categoryRank": 97,
+            "categoryTotal": 113
+        },
+        {
+            "name": "fur half helm",
+            "percentage": 0.0174101047,
+            "category": "art_head",
+            "categoryRank": 98,
+            "categoryTotal": 113
+        },
+        {
+            "name": "unbreachable great helm",
+            "percentage": 0.0176376878,
+            "category": "art_head",
+            "categoryRank": 99,
+            "categoryTotal": 113
+        },
+        {
+            "name": "steel great helm",
+            "percentage": 0.0177514793,
+            "category": "art_head",
+            "categoryRank": 100,
+            "categoryTotal": 113
+        },
+        {
+            "name": "diamond heater shield",
+            "percentage": 0.0177514793,
+            "category": "art_shield",
+            "categoryRank": 6,
+            "categoryTotal": 8
+        },
+        {
+            "name": "lion targe",
+            "percentage": 0.0177514793,
+            "category": "art_shield",
+            "categoryRank": 7,
+            "categoryTotal": 8
+        },
+        {
+            "name": "wooden shield",
+            "percentage": 0.0178652708,
+            "category": "art_shield",
+            "categoryRank": 8,
+            "categoryTotal": 8
+        },
+        {
+            "name": "bone crown",
+            "percentage": 0.0179790624,
+            "category": "art_head",
+            "categoryRank": 101,
+            "categoryTotal": 113
+        },
+        {
+            "name": "star mace",
+            "percentage": 0.0179790624,
+            "category": "art_weapon",
+            "categoryRank": 13,
+            "categoryTotal": 50
+        },
+        {
+            "name": "clasped leather vest",
+            "percentage": 0.0180928539,
+            "category": "art_armor",
+            "categoryRank": 9,
+            "categoryTotal": 49
+        },
+        {
+            "name": "crescent pole",
+            "percentage": 0.0180928539,
+            "category": "art_weapon",
+            "categoryRank": 14,
+            "categoryTotal": 50
+        },
+        {
+            "name": "naga aswaran helm",
+            "percentage": 0.0180928539,
+            "category": "art_head",
+            "categoryRank": 102,
+            "categoryTotal": 113
+        },
+        {
+            "name": "leather sprangenhelm",
+            "percentage": 0.0182066454,
+            "category": "art_head",
+            "categoryRank": 103,
+            "categoryTotal": 113
+        },
+        {
+            "name": "standard great helm",
+            "percentage": 0.0182066454,
+            "category": "art_head",
+            "categoryRank": 104,
+            "categoryTotal": 113
+        },
+        {
+            "name": "culling scythe",
+            "percentage": 0.018320437,
+            "category": "art_weapon",
+            "categoryRank": 15,
+            "categoryTotal": 50
+        },
+        {
+            "name": "champion's plate",
+            "percentage": 0.0184342285,
+            "category": "art_armor",
+            "categoryRank": 10,
+            "categoryTotal": 49
+        },
+        {
+            "name": "hair 60",
+            "percentage": 0.0184342285,
+            "category": "art_head",
+            "categoryRank": 105,
+            "categoryTotal": 113
+        },
+        {
+            "name": "leather ushunka",
+            "percentage": 0.0184342285,
+            "category": "art_head",
+            "categoryRank": 106,
+            "categoryTotal": 113
+        },
+        {
+            "name": "stalker's wrap",
+            "percentage": 0.0186618116,
+            "category": "art_head",
+            "categoryRank": 107,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hedge topper",
+            "percentage": 0.0186618116,
+            "category": "art_head",
+            "categoryRank": 108,
+            "categoryTotal": 113
+        },
+        {
+            "name": "spiked club",
+            "percentage": 0.0186618116,
+            "category": "art_weapon",
+            "categoryRank": 16,
+            "categoryTotal": 50
+        },
+        {
+            "name": "steppe's brass helm",
+            "percentage": 0.0187756031,
+            "category": "art_head",
+            "categoryRank": 109,
+            "categoryTotal": 113
+        },
+        {
+            "name": "rusted crown",
+            "percentage": 0.0190031862,
+            "category": "art_head",
+            "categoryRank": 110,
+            "categoryTotal": 113
+        },
+        {
+            "name": "hair 10",
+            "percentage": 0.0191169777,
+            "category": "art_head",
+            "categoryRank": 111,
+            "categoryTotal": 113
+        },
+        {
+            "name": "royal eagle armor",
+            "percentage": 0.0192307692,
+            "category": "art_armor",
+            "categoryRank": 11,
+            "categoryTotal": 49
+        },
+        {
+            "name": "woodsman's axe",
+            "percentage": 0.0192307692,
+            "category": "art_weapon",
+            "categoryRank": 17,
+            "categoryTotal": 50
+        },
+        {
+            "name": "viking axe",
+            "percentage": 0.0194583523,
+            "category": "art_weapon",
+            "categoryRank": 18,
+            "categoryTotal": 50
+        },
+        {
+            "name": "trident",
+            "percentage": 0.0196859354,
+            "category": "art_weapon",
+            "categoryRank": 19,
+            "categoryTotal": 50
+        },
+        {
+            "name": "block mace",
+            "percentage": 0.0196859354,
+            "category": "art_weapon",
+            "categoryRank": 20,
+            "categoryTotal": 50
+        },
+        {
+            "name": "emporer mink cap",
+            "percentage": 0.0196859354,
+            "category": "art_head",
+            "categoryRank": 112,
+            "categoryTotal": 113
+        },
+        {
+            "name": "ruler's fur armor",
+            "percentage": 0.0199135184,
+            "category": "art_armor",
+            "categoryRank": 12,
+            "categoryTotal": 49
+        },
+        {
+            "name": "spiked mace",
+            "percentage": 0.0199135184,
+            "category": "art_weapon",
+            "categoryRank": 21,
+            "categoryTotal": 50
+        },
+        {
+            "name": "collared plate",
+            "percentage": 0.0201411015,
+            "category": "art_armor",
+            "categoryRank": 13,
+            "categoryTotal": 49
+        },
+        {
+            "name": "wiz hat common",
+            "percentage": 0.0203686846,
+            "category": "art_head",
+            "categoryRank": 113,
+            "categoryTotal": 113
+        },
+        {
+            "name": "ritual axe",
+            "percentage": 0.0203686846,
+            "category": "art_weapon",
+            "categoryRank": 22,
+            "categoryTotal": 50
+        },
+        {
+            "name": "defender's blessed plate",
+            "percentage": 0.0204824761,
+            "category": "art_armor",
+            "categoryRank": 14,
+            "categoryTotal": 49
+        },
+        {
+            "name": "sword of honor",
+            "percentage": 0.0208238507,
+            "category": "art_weapon",
+            "categoryRank": 23,
+            "categoryTotal": 50
+        },
+        {
+            "name": "leaf spear",
+            "percentage": 0.0208238507,
+            "category": "art_weapon",
+            "categoryRank": 24,
+            "categoryTotal": 50
+        },
+        {
+            "name": "naga guard coat",
+            "percentage": 0.0208238507,
+            "category": "art_armor",
+            "categoryRank": 15,
+            "categoryTotal": 49
+        },
+        {
+            "name": "wand of curses",
+            "percentage": 0.0209376422,
+            "category": "art_weapon",
+            "categoryRank": 25,
+            "categoryTotal": 50
+        },
+        {
+            "name": "battle axe",
+            "percentage": 0.0209376422,
+            "category": "art_weapon",
+            "categoryRank": 26,
+            "categoryTotal": 50
+        },
+        {
+            "name": "thumper",
+            "percentage": 0.0209376422,
+            "category": "art_weapon",
+            "categoryRank": 27,
+            "categoryTotal": 50
+        },
+        {
+            "name": "temporal subjegator's trappings",
+            "percentage": 0.0210514338,
+            "category": "art_armor",
+            "categoryRank": 16,
+            "categoryTotal": 49
+        },
+        {
+            "name": "legion long sword",
+            "percentage": 0.0210514338,
+            "category": "art_weapon",
+            "categoryRank": 28,
+            "categoryTotal": 50
+        },
+        {
+            "name": "recurve bow",
+            "percentage": 0.0211652253,
+            "category": "art_weapon",
+            "categoryRank": 29,
+            "categoryTotal": 50
+        },
+        {
+            "name": "battle hammer",
+            "percentage": 0.0213928084,
+            "category": "art_weapon",
+            "categoryRank": 30,
+            "categoryTotal": 50
+        },
+        {
+            "name": "ornate hammer",
+            "percentage": 0.0216203914,
+            "category": "art_weapon",
+            "categoryRank": 31,
+            "categoryTotal": 50
+        },
+        {
+            "name": "steel plate",
+            "percentage": 0.0216203914,
+            "category": "art_armor",
+            "categoryRank": 17,
+            "categoryTotal": 49
+        },
+        {
+            "name": "apprentice's ambition",
+            "percentage": 0.021734183,
+            "category": "art_armor",
+            "categoryRank": 18,
+            "categoryTotal": 49
+        },
+        {
+            "name": "zorach warrior sword",
+            "percentage": 0.021734183,
+            "category": "art_weapon",
+            "categoryRank": 32,
+            "categoryTotal": 50
+        },
+        {
+            "name": "occultist's charm robe",
+            "percentage": 0.021734183,
+            "category": "art_armor",
+            "categoryRank": 19,
+            "categoryTotal": 49
+        },
+        {
+            "name": "merchant's getup",
+            "percentage": 0.0218479745,
+            "category": "art_armor",
+            "categoryRank": 20,
+            "categoryTotal": 49
+        },
+        {
+            "name": "black steel plate",
+            "percentage": 0.0218479745,
+            "category": "art_armor",
+            "categoryRank": 21,
+            "categoryTotal": 49
+        },
+        {
+            "name": "king's guard chain mail",
+            "percentage": 0.021961766,
+            "category": "art_armor",
+            "categoryRank": 22,
+            "categoryTotal": 49
+        },
+        {
+            "name": "staff of spheres",
+            "percentage": 0.021961766,
+            "category": "art_weapon",
+            "categoryRank": 33,
+            "categoryTotal": 50
+        },
+        {
+            "name": "common barbarian",
+            "percentage": 0.0220755576,
+            "category": "art_armor",
+            "categoryRank": 23,
+            "categoryTotal": 49
+        },
+        {
+            "name": "perfect katana",
+            "percentage": 0.0220755576,
+            "category": "art_weapon",
+            "categoryRank": 34,
+            "categoryTotal": 50
+        },
+        {
+            "name": "iron short sword",
+            "percentage": 0.0221893491,
+            "category": "art_weapon",
+            "categoryRank": 35,
+            "categoryTotal": 50
+        },
+        {
+            "name": "naga priest's robe",
+            "percentage": 0.0221893491,
+            "category": "art_armor",
+            "categoryRank": 24,
+            "categoryTotal": 49
+        },
+        {
+            "name": "ornate spear",
+            "percentage": 0.0223031406,
+            "category": "art_weapon",
+            "categoryRank": 36,
+            "categoryTotal": 50
+        },
+        {
+            "name": "keen's adventuring garb",
+            "percentage": 0.0223031406,
+            "category": "art_armor",
+            "categoryRank": 25,
+            "categoryTotal": 49
+        },
+        {
+            "name": "adventurer's chain mail",
+            "percentage": 0.0224169322,
+            "category": "art_armor",
+            "categoryRank": 26,
+            "categoryTotal": 49
+        },
+        {
+            "name": "stealth quilted enhanced",
+            "percentage": 0.0224169322,
+            "category": "art_armor",
+            "categoryRank": 27,
+            "categoryTotal": 49
+        },
+        {
+            "name": "long bow",
+            "percentage": 0.0226445152,
+            "category": "art_weapon",
+            "categoryRank": 37,
+            "categoryTotal": 50
+        },
+        {
+            "name": "victor's lush fur armor",
+            "percentage": 0.0226445152,
+            "category": "art_armor",
+            "categoryRank": 28,
+            "categoryTotal": 49
+        },
+        {
+            "name": "temple mage garb",
+            "percentage": 0.0226445152,
+            "category": "art_armor",
+            "categoryRank": 29,
+            "categoryTotal": 49
+        },
+        {
+            "name": "explorer's wrap",
+            "percentage": 0.0226445152,
+            "category": "art_armor",
+            "categoryRank": 30,
+            "categoryTotal": 49
+        },
+        {
+            "name": "fine magus robe",
+            "percentage": 0.0229858898,
+            "category": "art_armor",
+            "categoryRank": 31,
+            "categoryTotal": 49
+        },
+        {
+            "name": "studded & quilted leather",
+            "percentage": 0.0229858898,
+            "category": "art_armor",
+            "categoryRank": 32,
+            "categoryTotal": 49
+        },
+        {
+            "name": "ornate bow",
+            "percentage": 0.0230996814,
+            "category": "art_weapon",
+            "categoryRank": 38,
+            "categoryTotal": 50
+        },
+        {
+            "name": "iron tower plate",
+            "percentage": 0.0230996814,
+            "category": "art_armor",
+            "categoryRank": 33,
+            "categoryTotal": 49
+        },
+        {
+            "name": "glower's staff",
+            "percentage": 0.0232134729,
+            "category": "art_weapon",
+            "categoryRank": 39,
+            "categoryTotal": 50
+        },
+        {
+            "name": "rogue's leather vest",
+            "percentage": 0.0232134729,
+            "category": "art_armor",
+            "categoryRank": 34,
+            "categoryTotal": 49
+        },
+        {
+            "name": "isles broad sword",
+            "percentage": 0.0232134729,
+            "category": "art_weapon",
+            "categoryRank": 40,
+            "categoryTotal": 50
+        },
+        {
+            "name": "warlock's robes",
+            "percentage": 0.0233272645,
+            "category": "art_armor",
+            "categoryRank": 35,
+            "categoryTotal": 49
+        },
+        {
+            "name": "fighter full leathers",
+            "percentage": 0.0233272645,
+            "category": "art_armor",
+            "categoryRank": 36,
+            "categoryTotal": 49
+        },
+        {
+            "name": "wooden staff",
+            "percentage": 0.0233272645,
+            "category": "art_weapon",
+            "categoryRank": 41,
+            "categoryTotal": 50
+        },
+        {
+            "name": "glaive",
+            "percentage": 0.023441056,
+            "category": "art_weapon",
+            "categoryRank": 42,
+            "categoryTotal": 50
+        },
+        {
+            "name": "scryer's robe",
+            "percentage": 0.0235548475,
+            "category": "art_armor",
+            "categoryRank": 37,
+            "categoryTotal": 49
+        },
+        {
+            "name": "humble servant robe",
+            "percentage": 0.0235548475,
+            "category": "art_armor",
+            "categoryRank": 38,
+            "categoryTotal": 49
+        },
+        {
+            "name": "ornate bastard sword",
+            "percentage": 0.0236686391,
+            "category": "art_weapon",
+            "categoryRank": 43,
+            "categoryTotal": 50
+        },
+        {
+            "name": "iron sword",
+            "percentage": 0.0237824306,
+            "category": "art_weapon",
+            "categoryRank": 44,
+            "categoryTotal": 50
+        },
+        {
+            "name": "footman's gift",
+            "percentage": 0.0237824306,
+            "category": "art_weapon",
+            "categoryRank": 45,
+            "categoryTotal": 50
+        },
+        {
+            "name": "raider's armor",
+            "percentage": 0.0237824306,
+            "category": "art_armor",
+            "categoryRank": 39,
+            "categoryTotal": 49
+        },
+        {
+            "name": "iron bastard",
+            "percentage": 0.0238962221,
+            "category": "art_weapon",
+            "categoryRank": 46,
+            "categoryTotal": 50
+        },
+        {
+            "name": "tough boiled leather",
+            "percentage": 0.0238962221,
+            "category": "art_armor",
+            "categoryRank": 40,
+            "categoryTotal": 49
+        },
+        {
+            "name": "acolyte robe",
+            "percentage": 0.0240100137,
+            "category": "art_armor",
+            "categoryRank": 41,
+            "categoryTotal": 49
+        },
+        {
+            "name": "worn threads",
+            "percentage": 0.0240100137,
+            "category": "art_armor",
+            "categoryRank": 42,
+            "categoryTotal": 49
+        },
+        {
+            "name": "wizard's robes",
+            "percentage": 0.0242375967,
+            "category": "art_armor",
+            "categoryRank": 43,
+            "categoryTotal": 49
+        },
+        {
+            "name": "dawnbringer sword",
+            "percentage": 0.0242375967,
+            "category": "art_weapon",
+            "categoryRank": 47,
+            "categoryTotal": 50
+        },
+        {
+            "name": "simple farmer armor",
+            "percentage": 0.0242375967,
+            "category": "art_armor",
+            "categoryRank": 44,
+            "categoryTotal": 49
+        },
+        {
+            "name": "hedge wizard outfit",
+            "percentage": 0.0242375967,
+            "category": "art_armor",
+            "categoryRank": 45,
+            "categoryTotal": 49
+        },
+        {
+            "name": "crafted stabber",
+            "percentage": 0.0242375967,
+            "category": "art_weapon",
+            "categoryRank": 48,
+            "categoryTotal": 50
+        },
+        {
+            "name": "stealth quilted",
+            "percentage": 0.0243513883,
+            "category": "art_armor",
+            "categoryRank": 46,
+            "categoryTotal": 49
+        },
+        {
+            "name": "rogue's full leathers",
+            "percentage": 0.0243513883,
+            "category": "art_armor",
+            "categoryRank": 47,
+            "categoryTotal": 49
+        },
+        {
+            "name": "charlatan's outfit",
+            "percentage": 0.0243513883,
+            "category": "art_armor",
+            "categoryRank": 48,
+            "categoryTotal": 49
+        },
+        {
+            "name": "steel sword",
+            "percentage": 0.0250341375,
+            "category": "art_weapon",
+            "categoryRank": 49,
+            "categoryTotal": 50
+        },
+        {
+            "name": "gladius",
+            "percentage": 0.0252617205,
+            "category": "art_weapon",
+            "categoryRank": 50,
+            "categoryTotal": 50
+        },
+        {
+            "name": "quam quilted and leather",
+            "percentage": 0.0253755121,
+            "category": "art_armor",
+            "categoryRank": 49,
+            "categoryTotal": 49
+        }
+    ]
+}

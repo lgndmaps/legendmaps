@@ -1,0 +1,18 @@
+{
+  "name": "[TEST] Ranger's Kit",
+  "id": "5",
+  "rarity": "2",
+  "type": "adventurer",
+  "description": "Begin the campaign with a quality bow. A Legend Maps Power Up. ",
+  "image": "https://legendmaps.io/powerups/pup_plus.svg",
+  "attributes": [
+    {
+      "trait_type": "rarity",
+      "value": "rare"
+    },
+    {
+      "trait_type": "type",
+      "value": "adventurer"
+    }
+  ]
+}

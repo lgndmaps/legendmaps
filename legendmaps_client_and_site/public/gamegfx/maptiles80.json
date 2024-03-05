@@ -1,0 +1,4115 @@
+{
+	"textures": [
+		{
+			"image": "maptiles80.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 806,
+				"h": 806
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "trap_gas.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 80,
+						"h": 80
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 80,
+						"h": 80
+					}
+				},
+				{
+					"filename": "trap_pit.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 80,
+						"h": 80
+					},
+					"frame": {
+						"x": 0,
+						"y": 80,
+						"w": 80,
+						"h": 80
+					}
+				},
+				{
+					"filename": "trap_shock.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 80,
+						"h": 80
+					},
+					"frame": {
+						"x": 80,
+						"y": 0,
+						"w": 80,
+						"h": 80
+					}
+				},
+				{
+					"filename": "trap_spikedwall.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 80,
+						"h": 80
+					},
+					"frame": {
+						"x": 0,
+						"y": 160,
+						"w": 80,
+						"h": 80
+					}
+				},
+				{
+					"filename": "trap_web.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 80,
+						"h": 80
+					},
+					"frame": {
+						"x": 80,
+						"y": 80,
+						"w": 80,
+						"h": 80
+					}
+				},
+				{
+					"filename": "spear_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 79,
+						"h": 79
+					},
+					"frame": {
+						"x": 160,
+						"y": 0,
+						"w": 79,
+						"h": 79
+					}
+				},
+				{
+					"filename": "spear_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 79,
+						"h": 79
+					},
+					"frame": {
+						"x": 0,
+						"y": 240,
+						"w": 79,
+						"h": 79
+					}
+				},
+				{
+					"filename": "spear_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 79,
+						"h": 79
+					},
+					"frame": {
+						"x": 80,
+						"y": 160,
+						"w": 79,
+						"h": 79
+					}
+				},
+				{
+					"filename": "spear_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 79,
+						"h": 79
+					},
+					"frame": {
+						"x": 160,
+						"y": 79,
+						"w": 79,
+						"h": 79
+					}
+				},
+				{
+					"filename": "staff_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 79,
+						"h": 79
+					},
+					"frame": {
+						"x": 239,
+						"y": 0,
+						"w": 79,
+						"h": 79
+					}
+				},
+				{
+					"filename": "staff_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 79,
+						"h": 79
+					},
+					"frame": {
+						"x": 0,
+						"y": 319,
+						"w": 79,
+						"h": 79
+					}
+				},
+				{
+					"filename": "sword_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 79,
+						"h": 79
+					},
+					"frame": {
+						"x": 239,
+						"y": 79,
+						"w": 79,
+						"h": 79
+					}
+				},
+				{
+					"filename": "staff_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 78,
+						"h": 78
+					},
+					"frame": {
+						"x": 318,
+						"y": 0,
+						"w": 78,
+						"h": 78
+					}
+				},
+				{
+					"filename": "helm_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 1,
+						"w": 74,
+						"h": 78
+					},
+					"frame": {
+						"x": 0,
+						"y": 398,
+						"w": 74,
+						"h": 78
+					}
+				},
+				{
+					"filename": "heavy_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 78,
+						"h": 72
+					},
+					"frame": {
+						"x": 318,
+						"y": 78,
+						"w": 78,
+						"h": 72
+					}
+				},
+				{
+					"filename": "heavy_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 78,
+						"h": 72
+					},
+					"frame": {
+						"x": 396,
+						"y": 0,
+						"w": 78,
+						"h": 72
+					}
+				},
+				{
+					"filename": "barrel.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 70,
+						"h": 79
+					},
+					"frame": {
+						"x": 0,
+						"y": 476,
+						"w": 70,
+						"h": 79
+					}
+				},
+				{
+					"filename": "boots_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 78,
+						"h": 70
+					},
+					"frame": {
+						"x": 396,
+						"y": 72,
+						"w": 78,
+						"h": 70
+					}
+				},
+				{
+					"filename": "boots_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 78,
+						"h": 70
+					},
+					"frame": {
+						"x": 474,
+						"y": 0,
+						"w": 78,
+						"h": 70
+					}
+				},
+				{
+					"filename": "robe_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 78,
+						"h": 70
+					},
+					"frame": {
+						"x": 474,
+						"y": 70,
+						"w": 78,
+						"h": 70
+					}
+				},
+				{
+					"filename": "sword_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 552,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "sword_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 74,
+						"h": 74
+					},
+					"frame": {
+						"x": 626,
+						"y": 0,
+						"w": 74,
+						"h": 74
+					}
+				},
+				{
+					"filename": "chest.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 78,
+						"h": 68
+					},
+					"frame": {
+						"x": 700,
+						"y": 0,
+						"w": 78,
+						"h": 68
+					}
+				},
+				{
+					"filename": "robe_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 70,
+						"h": 76
+					},
+					"frame": {
+						"x": 0,
+						"y": 555,
+						"w": 70,
+						"h": 76
+					}
+				},
+				{
+					"filename": "hat_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 7,
+						"w": 78,
+						"h": 66
+					},
+					"frame": {
+						"x": 552,
+						"y": 74,
+						"w": 78,
+						"h": 66
+					}
+				},
+				{
+					"filename": "cookpot.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 74,
+						"h": 72
+					},
+					"frame": {
+						"x": 0,
+						"y": 631,
+						"w": 74,
+						"h": 72
+					}
+				},
+				{
+					"filename": "bow_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 74,
+						"h": 70
+					},
+					"frame": {
+						"x": 0,
+						"y": 703,
+						"w": 74,
+						"h": 70
+					}
+				},
+				{
+					"filename": "bow_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 70,
+						"h": 66
+					},
+					"frame": {
+						"x": 630,
+						"y": 74,
+						"w": 70,
+						"h": 66
+					}
+				},
+				{
+					"filename": "hat_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 78,
+						"h": 68
+					},
+					"frame": {
+						"x": 700,
+						"y": 68,
+						"w": 78,
+						"h": 68
+					}
+				},
+				{
+					"filename": "key.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 25,
+						"w": 74,
+						"h": 30
+					},
+					"frame": {
+						"x": 0,
+						"y": 773,
+						"w": 74,
+						"h": 30
+					}
+				},
+				{
+					"filename": "wall_v_hell.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 0,
+						"w": 22,
+						"h": 80
+					},
+					"frame": {
+						"x": 778,
+						"y": 0,
+						"w": 22,
+						"h": 80
+					}
+				},
+				{
+					"filename": "boots_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 15,
+						"w": 78,
+						"h": 48
+					},
+					"frame": {
+						"x": 318,
+						"y": 150,
+						"w": 78,
+						"h": 48
+					}
+				},
+				{
+					"filename": "heavy_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 78,
+						"h": 68
+					},
+					"frame": {
+						"x": 396,
+						"y": 142,
+						"w": 78,
+						"h": 68
+					}
+				},
+				{
+					"filename": "scroll_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 74,
+						"h": 70
+					},
+					"frame": {
+						"x": 474,
+						"y": 140,
+						"w": 74,
+						"h": 70
+					}
+				},
+				{
+					"filename": "scroll_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 74,
+						"h": 70
+					},
+					"frame": {
+						"x": 548,
+						"y": 140,
+						"w": 74,
+						"h": 70
+					}
+				},
+				{
+					"filename": "scroll_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 74,
+						"h": 70
+					},
+					"frame": {
+						"x": 622,
+						"y": 140,
+						"w": 74,
+						"h": 70
+					}
+				},
+				{
+					"filename": "axe_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 0,
+						"w": 56,
+						"h": 80
+					},
+					"frame": {
+						"x": 70,
+						"y": 476,
+						"w": 56,
+						"h": 80
+					}
+				},
+				{
+					"filename": "shield_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 1,
+						"w": 58,
+						"h": 78
+					},
+					"frame": {
+						"x": 74,
+						"y": 398,
+						"w": 58,
+						"h": 78
+					}
+				},
+				{
+					"filename": "sack.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 3,
+						"w": 58,
+						"h": 74
+					},
+					"frame": {
+						"x": 70,
+						"y": 556,
+						"w": 58,
+						"h": 74
+					}
+				},
+				{
+					"filename": "statue_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 62,
+						"h": 79
+					},
+					"frame": {
+						"x": 74,
+						"y": 630,
+						"w": 62,
+						"h": 79
+					}
+				},
+				{
+					"filename": "statue_hell.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 62,
+						"h": 79
+					},
+					"frame": {
+						"x": 74,
+						"y": 709,
+						"w": 62,
+						"h": 79
+					}
+				},
+				{
+					"filename": "door_secret.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 0,
+						"w": 52,
+						"h": 80
+					},
+					"frame": {
+						"x": 126,
+						"y": 476,
+						"w": 52,
+						"h": 80
+					}
+				},
+				{
+					"filename": "nourish_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 3,
+						"w": 50,
+						"h": 74
+					},
+					"frame": {
+						"x": 128,
+						"y": 556,
+						"w": 50,
+						"h": 74
+					}
+				},
+				{
+					"filename": "wall_v_ice_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 45,
+						"h": 80
+					},
+					"frame": {
+						"x": 136,
+						"y": 630,
+						"w": 45,
+						"h": 80
+					}
+				},
+				{
+					"filename": "amulet_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 1,
+						"w": 46,
+						"h": 78
+					},
+					"frame": {
+						"x": 136,
+						"y": 710,
+						"w": 46,
+						"h": 78
+					}
+				},
+				{
+					"filename": "wall_h_stone.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 35,
+						"w": 80,
+						"h": 16
+					},
+					"frame": {
+						"x": 74,
+						"y": 788,
+						"w": 80,
+						"h": 16
+					}
+				},
+				{
+					"filename": "hills_desert.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 43,
+						"w": 78,
+						"h": 22
+					},
+					"frame": {
+						"x": 700,
+						"y": 136,
+						"w": 78,
+						"h": 22
+					}
+				},
+				{
+					"filename": "pile.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 11,
+						"w": 74,
+						"h": 58
+					},
+					"frame": {
+						"x": 696,
+						"y": 158,
+						"w": 74,
+						"h": 58
+					}
+				},
+				{
+					"filename": "gateway.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 9,
+						"w": 36,
+						"h": 58
+					},
+					"frame": {
+						"x": 770,
+						"y": 158,
+						"w": 36,
+						"h": 58
+					}
+				},
+				{
+					"filename": "wall_v_desert_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 7,
+						"w": 20,
+						"h": 68
+					},
+					"frame": {
+						"x": 778,
+						"y": 80,
+						"w": 20,
+						"h": 68
+					}
+				},
+				{
+					"filename": "wall_h.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 35,
+						"w": 80,
+						"h": 10
+					},
+					"frame": {
+						"x": 160,
+						"y": 158,
+						"w": 80,
+						"h": 10
+					}
+				},
+				{
+					"filename": "scroll_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 74,
+						"h": 70
+					},
+					"frame": {
+						"x": 159,
+						"y": 168,
+						"w": 74,
+						"h": 70
+					}
+				},
+				{
+					"filename": "pyramid.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 21,
+						"w": 78,
+						"h": 46
+					},
+					"frame": {
+						"x": 240,
+						"y": 158,
+						"w": 78,
+						"h": 46
+					}
+				},
+				{
+					"filename": "boots_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 15,
+						"w": 76,
+						"h": 48
+					},
+					"frame": {
+						"x": 233,
+						"y": 204,
+						"w": 76,
+						"h": 48
+					}
+				},
+				{
+					"filename": "hat_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 21,
+						"w": 74,
+						"h": 38
+					},
+					"frame": {
+						"x": 159,
+						"y": 238,
+						"w": 74,
+						"h": 38
+					}
+				},
+				{
+					"filename": "wall_h_ruin.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 80,
+						"h": 30
+					},
+					"frame": {
+						"x": 233,
+						"y": 252,
+						"w": 80,
+						"h": 30
+					}
+				},
+				{
+					"filename": "wall_v.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 0,
+						"w": 10,
+						"h": 80
+					},
+					"frame": {
+						"x": 79,
+						"y": 240,
+						"w": 10,
+						"h": 80
+					}
+				},
+				{
+					"filename": "light_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 70,
+						"h": 70
+					},
+					"frame": {
+						"x": 89,
+						"y": 239,
+						"w": 70,
+						"h": 70
+					}
+				},
+				{
+					"filename": "torture.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 1,
+						"w": 60,
+						"h": 78
+					},
+					"frame": {
+						"x": 79,
+						"y": 320,
+						"w": 60,
+						"h": 78
+					}
+				},
+				{
+					"filename": "amulet_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 1,
+						"w": 46,
+						"h": 78
+					},
+					"frame": {
+						"x": 132,
+						"y": 398,
+						"w": 46,
+						"h": 78
+					}
+				},
+				{
+					"filename": "food_meat.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 15,
+						"w": 72,
+						"h": 50
+					},
+					"frame": {
+						"x": 159,
+						"y": 276,
+						"w": 72,
+						"h": 50
+					}
+				},
+				{
+					"filename": "nourish_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 3,
+						"w": 58,
+						"h": 72
+					},
+					"frame": {
+						"x": 139,
+						"y": 326,
+						"w": 58,
+						"h": 72
+					}
+				},
+				{
+					"filename": "nourish_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 15,
+						"w": 72,
+						"h": 50
+					},
+					"frame": {
+						"x": 231,
+						"y": 282,
+						"w": 72,
+						"h": 50
+					}
+				},
+				{
+					"filename": "dagger_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 0,
+						"w": 30,
+						"h": 79
+					},
+					"frame": {
+						"x": 197,
+						"y": 326,
+						"w": 30,
+						"h": 79
+					}
+				},
+				{
+					"filename": "light_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 70,
+						"h": 70
+					},
+					"frame": {
+						"x": 227,
+						"y": 332,
+						"w": 70,
+						"h": 70
+					}
+				},
+				{
+					"filename": "axe_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 0,
+						"w": 50,
+						"h": 79
+					},
+					"frame": {
+						"x": 178,
+						"y": 405,
+						"w": 50,
+						"h": 79
+					}
+				},
+				{
+					"filename": "helm_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 1,
+						"w": 66,
+						"h": 76
+					},
+					"frame": {
+						"x": 228,
+						"y": 402,
+						"w": 66,
+						"h": 76
+					}
+				},
+				{
+					"filename": "helm_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 1,
+						"w": 66,
+						"h": 76
+					},
+					"frame": {
+						"x": 178,
+						"y": 484,
+						"w": 66,
+						"h": 76
+					}
+				},
+				{
+					"filename": "light_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 70,
+						"h": 70
+					},
+					"frame": {
+						"x": 178,
+						"y": 560,
+						"w": 70,
+						"h": 70
+					}
+				},
+				{
+					"filename": "robe_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 1,
+						"w": 60,
+						"h": 76
+					},
+					"frame": {
+						"x": 181,
+						"y": 630,
+						"w": 60,
+						"h": 76
+					}
+				},
+				{
+					"filename": "light_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 5,
+						"w": 62,
+						"h": 70
+					},
+					"frame": {
+						"x": 182,
+						"y": 706,
+						"w": 62,
+						"h": 70
+					}
+				},
+				{
+					"filename": "wall_v_volcano_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 45,
+						"h": 80
+					},
+					"frame": {
+						"x": 244,
+						"y": 478,
+						"w": 45,
+						"h": 80
+					}
+				},
+				{
+					"filename": "dagger_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 3,
+						"w": 46,
+						"h": 74
+					},
+					"frame": {
+						"x": 248,
+						"y": 558,
+						"w": 46,
+						"h": 74
+					}
+				},
+				{
+					"filename": "shield_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 5,
+						"w": 58,
+						"h": 70
+					},
+					"frame": {
+						"x": 241,
+						"y": 632,
+						"w": 58,
+						"h": 70
+					}
+				},
+				{
+					"filename": "heavy_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 70,
+						"h": 68
+					},
+					"frame": {
+						"x": 244,
+						"y": 702,
+						"w": 70,
+						"h": 68
+					}
+				},
+				{
+					"filename": "wall_v_desert_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 0,
+						"w": 10,
+						"h": 80
+					},
+					"frame": {
+						"x": 289,
+						"y": 478,
+						"w": 10,
+						"h": 80
+					}
+				},
+				{
+					"filename": "potion_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 1,
+						"w": 42,
+						"h": 76
+					},
+					"frame": {
+						"x": 294,
+						"y": 402,
+						"w": 42,
+						"h": 76
+					}
+				},
+				{
+					"filename": "axe_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 0,
+						"w": 38,
+						"h": 79
+					},
+					"frame": {
+						"x": 299,
+						"y": 478,
+						"w": 38,
+						"h": 79
+					}
+				},
+				{
+					"filename": "hammer_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 5,
+						"w": 44,
+						"h": 70
+					},
+					"frame": {
+						"x": 297,
+						"y": 332,
+						"w": 44,
+						"h": 70
+					}
+				},
+				{
+					"filename": "nourish_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 15,
+						"w": 72,
+						"h": 50
+					},
+					"frame": {
+						"x": 303,
+						"y": 282,
+						"w": 72,
+						"h": 50
+					}
+				},
+				{
+					"filename": "dagger_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 1,
+						"w": 44,
+						"h": 78
+					},
+					"frame": {
+						"x": 341,
+						"y": 332,
+						"w": 44,
+						"h": 78
+					}
+				},
+				{
+					"filename": "player.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 7,
+						"w": 62,
+						"h": 68
+					},
+					"frame": {
+						"x": 336,
+						"y": 410,
+						"w": 62,
+						"h": 68
+					}
+				},
+				{
+					"filename": "robe_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 5,
+						"w": 62,
+						"h": 68
+					},
+					"frame": {
+						"x": 337,
+						"y": 478,
+						"w": 62,
+						"h": 68
+					}
+				},
+				{
+					"filename": "bow_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 66,
+						"h": 66
+					},
+					"frame": {
+						"x": 313,
+						"y": 216,
+						"w": 66,
+						"h": 66
+					}
+				},
+				{
+					"filename": "staff_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 5,
+						"w": 68,
+						"h": 68
+					},
+					"frame": {
+						"x": 379,
+						"y": 210,
+						"w": 68,
+						"h": 68
+					}
+				},
+				{
+					"filename": "shield_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 66,
+						"h": 66
+					},
+					"frame": {
+						"x": 447,
+						"y": 210,
+						"w": 66,
+						"h": 66
+					}
+				},
+				{
+					"filename": "shield_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 66,
+						"h": 66
+					},
+					"frame": {
+						"x": 513,
+						"y": 210,
+						"w": 66,
+						"h": 66
+					}
+				},
+				{
+					"filename": "helm_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 9,
+						"w": 66,
+						"h": 60
+					},
+					"frame": {
+						"x": 579,
+						"y": 210,
+						"w": 66,
+						"h": 60
+					}
+				},
+				{
+					"filename": "potion_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 3,
+						"w": 50,
+						"h": 72
+					},
+					"frame": {
+						"x": 645,
+						"y": 210,
+						"w": 50,
+						"h": 72
+					}
+				},
+				{
+					"filename": "ring_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 9,
+						"w": 66,
+						"h": 60
+					},
+					"frame": {
+						"x": 695,
+						"y": 216,
+						"w": 66,
+						"h": 60
+					}
+				},
+				{
+					"filename": "wall_ne.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 35,
+						"w": 45,
+						"h": 45
+					},
+					"frame": {
+						"x": 761,
+						"y": 216,
+						"w": 45,
+						"h": 45
+					}
+				},
+				{
+					"filename": "wall_ne_desert.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 35,
+						"w": 45,
+						"h": 45
+					},
+					"frame": {
+						"x": 761,
+						"y": 261,
+						"w": 45,
+						"h": 45
+					}
+				},
+				{
+					"filename": "hat_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 11,
+						"w": 66,
+						"h": 56
+					},
+					"frame": {
+						"x": 695,
+						"y": 276,
+						"w": 66,
+						"h": 56
+					}
+				},
+				{
+					"filename": "wall_ne_hell.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 35,
+						"w": 45,
+						"h": 45
+					},
+					"frame": {
+						"x": 761,
+						"y": 306,
+						"w": 45,
+						"h": 45
+					}
+				},
+				{
+					"filename": "dagger_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 1,
+						"w": 44,
+						"h": 78
+					},
+					"frame": {
+						"x": 385,
+						"y": 332,
+						"w": 44,
+						"h": 78
+					}
+				},
+				{
+					"filename": "bow_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 13,
+						"w": 58,
+						"h": 54
+					},
+					"frame": {
+						"x": 379,
+						"y": 278,
+						"w": 58,
+						"h": 54
+					}
+				},
+				{
+					"filename": "axe_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 5,
+						"w": 32,
+						"h": 68
+					},
+					"frame": {
+						"x": 398,
+						"y": 410,
+						"w": 32,
+						"h": 68
+					}
+				},
+				{
+					"filename": "hammer_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 5,
+						"w": 44,
+						"h": 70
+					},
+					"frame": {
+						"x": 399,
+						"y": 478,
+						"w": 44,
+						"h": 70
+					}
+				},
+				{
+					"filename": "potion_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 1,
+						"w": 42,
+						"h": 76
+					},
+					"frame": {
+						"x": 429,
+						"y": 332,
+						"w": 42,
+						"h": 76
+					}
+				},
+				{
+					"filename": "amulet_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 9,
+						"w": 46,
+						"h": 62
+					},
+					"frame": {
+						"x": 430,
+						"y": 408,
+						"w": 46,
+						"h": 62
+					}
+				},
+				{
+					"filename": "wall_v_ruin.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 0,
+						"w": 30,
+						"h": 80
+					},
+					"frame": {
+						"x": 443,
+						"y": 470,
+						"w": 30,
+						"h": 80
+					}
+				},
+				{
+					"filename": "wand_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 13,
+						"w": 54,
+						"h": 54
+					},
+					"frame": {
+						"x": 437,
+						"y": 278,
+						"w": 54,
+						"h": 54
+					}
+				},
+				{
+					"filename": "ring_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 9,
+						"w": 66,
+						"h": 60
+					},
+					"frame": {
+						"x": 491,
+						"y": 276,
+						"w": 66,
+						"h": 60
+					}
+				},
+				{
+					"filename": "ring_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 9,
+						"w": 66,
+						"h": 60
+					},
+					"frame": {
+						"x": 471,
+						"y": 336,
+						"w": 66,
+						"h": 60
+					}
+				},
+				{
+					"filename": "sword_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 9,
+						"w": 62,
+						"h": 62
+					},
+					"frame": {
+						"x": 476,
+						"y": 396,
+						"w": 62,
+						"h": 62
+					}
+				},
+				{
+					"filename": "ring_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 9,
+						"w": 66,
+						"h": 60
+					},
+					"frame": {
+						"x": 579,
+						"y": 270,
+						"w": 66,
+						"h": 60
+					}
+				},
+				{
+					"filename": "sword_6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 15,
+						"w": 50,
+						"h": 50
+					},
+					"frame": {
+						"x": 645,
+						"y": 282,
+						"w": 50,
+						"h": 50
+					}
+				},
+				{
+					"filename": "wall_v_ice_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 0,
+						"w": 10,
+						"h": 80
+					},
+					"frame": {
+						"x": 473,
+						"y": 470,
+						"w": 10,
+						"h": 80
+					}
+				},
+				{
+					"filename": "sword_5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 9,
+						"w": 62,
+						"h": 62
+					},
+					"frame": {
+						"x": 483,
+						"y": 458,
+						"w": 62,
+						"h": 62
+					}
+				},
+				{
+					"filename": "bracer_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 9,
+						"w": 64,
+						"h": 60
+					},
+					"frame": {
+						"x": 483,
+						"y": 520,
+						"w": 64,
+						"h": 60
+					}
+				},
+				{
+					"filename": "pine.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 15,
+						"w": 32,
+						"h": 60
+					},
+					"frame": {
+						"x": 537,
+						"y": 336,
+						"w": 32,
+						"h": 60
+					}
+				},
+				{
+					"filename": "wrist_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 9,
+						"w": 64,
+						"h": 60
+					},
+					"frame": {
+						"x": 569,
+						"y": 330,
+						"w": 64,
+						"h": 60
+					}
+				},
+				{
+					"filename": "wrist_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 9,
+						"w": 64,
+						"h": 60
+					},
+					"frame": {
+						"x": 633,
+						"y": 332,
+						"w": 64,
+						"h": 60
+					}
+				},
+				{
+					"filename": "wand_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 9,
+						"w": 60,
+						"h": 62
+					},
+					"frame": {
+						"x": 697,
+						"y": 332,
+						"w": 60,
+						"h": 62
+					}
+				},
+				{
+					"filename": "amulet_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 9,
+						"w": 46,
+						"h": 62
+					},
+					"frame": {
+						"x": 538,
+						"y": 396,
+						"w": 46,
+						"h": 62
+					}
+				},
+				{
+					"filename": "grave_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 13,
+						"w": 48,
+						"h": 62
+					},
+					"frame": {
+						"x": 584,
+						"y": 390,
+						"w": 48,
+						"h": 62
+					}
+				},
+				{
+					"filename": "wand_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 9,
+						"w": 60,
+						"h": 60
+					},
+					"frame": {
+						"x": 632,
+						"y": 392,
+						"w": 60,
+						"h": 60
+					}
+				},
+				{
+					"filename": "bracer_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 11,
+						"w": 58,
+						"h": 58
+					},
+					"frame": {
+						"x": 692,
+						"y": 394,
+						"w": 58,
+						"h": 58
+					}
+				},
+				{
+					"filename": "hall - Copy.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 9,
+						"w": 52,
+						"h": 62
+					},
+					"frame": {
+						"x": 545,
+						"y": 458,
+						"w": 52,
+						"h": 62
+					}
+				},
+				{
+					"filename": "hall.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 9,
+						"w": 52,
+						"h": 62
+					},
+					"frame": {
+						"x": 547,
+						"y": 520,
+						"w": 52,
+						"h": 62
+					}
+				},
+				{
+					"filename": "wrist_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 11,
+						"w": 58,
+						"h": 58
+					},
+					"frame": {
+						"x": 597,
+						"y": 452,
+						"w": 58,
+						"h": 58
+					}
+				},
+				{
+					"filename": "wrist_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 11,
+						"w": 58,
+						"h": 58
+					},
+					"frame": {
+						"x": 655,
+						"y": 452,
+						"w": 58,
+						"h": 58
+					}
+				},
+				{
+					"filename": "path_dark.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 9,
+						"w": 52,
+						"h": 62
+					},
+					"frame": {
+						"x": 599,
+						"y": 510,
+						"w": 52,
+						"h": 62
+					}
+				},
+				{
+					"filename": "path_dirt.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 9,
+						"w": 52,
+						"h": 62
+					},
+					"frame": {
+						"x": 651,
+						"y": 510,
+						"w": 52,
+						"h": 62
+					}
+				},
+				{
+					"filename": "gem.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 9,
+						"w": 38,
+						"h": 62
+					},
+					"frame": {
+						"x": 713,
+						"y": 452,
+						"w": 38,
+						"h": 62
+					}
+				},
+				{
+					"filename": "path_fire.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 9,
+						"w": 52,
+						"h": 62
+					},
+					"frame": {
+						"x": 703,
+						"y": 514,
+						"w": 52,
+						"h": 62
+					}
+				},
+				{
+					"filename": "wall_h_desert_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 35,
+						"w": 80,
+						"h": 10
+					},
+					"frame": {
+						"x": 599,
+						"y": 572,
+						"w": 80,
+						"h": 10
+					}
+				},
+				{
+					"filename": "grave_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 19,
+						"w": 48,
+						"h": 56
+					},
+					"frame": {
+						"x": 757,
+						"y": 351,
+						"w": 48,
+						"h": 56
+					}
+				},
+				{
+					"filename": "wall_nw_ruin.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 27,
+						"w": 55,
+						"h": 53
+					},
+					"frame": {
+						"x": 751,
+						"y": 407,
+						"w": 55,
+						"h": 53
+					}
+				},
+				{
+					"filename": "wall_se_ruin.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 55,
+						"h": 53
+					},
+					"frame": {
+						"x": 751,
+						"y": 460,
+						"w": 55,
+						"h": 53
+					}
+				},
+				{
+					"filename": "wall_nw_stone.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 29,
+						"w": 51,
+						"h": 51
+					},
+					"frame": {
+						"x": 755,
+						"y": 513,
+						"w": 51,
+						"h": 51
+					}
+				},
+				{
+					"filename": "wall_sw_stone.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 0,
+						"w": 51,
+						"h": 51
+					},
+					"frame": {
+						"x": 755,
+						"y": 564,
+						"w": 51,
+						"h": 51
+					}
+				},
+				{
+					"filename": "potion_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 3,
+						"w": 42,
+						"h": 72
+					},
+					"frame": {
+						"x": 294,
+						"y": 558,
+						"w": 42,
+						"h": 72
+					}
+				},
+				{
+					"filename": "path_hell.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 9,
+						"w": 52,
+						"h": 62
+					},
+					"frame": {
+						"x": 299,
+						"y": 630,
+						"w": 52,
+						"h": 62
+					}
+				},
+				{
+					"filename": "path_ice.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 9,
+						"w": 52,
+						"h": 62
+					},
+					"frame": {
+						"x": 314,
+						"y": 692,
+						"w": 52,
+						"h": 62
+					}
+				},
+				{
+					"filename": "coins.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 13,
+						"w": 44,
+						"h": 52
+					},
+					"frame": {
+						"x": 314,
+						"y": 754,
+						"w": 44,
+						"h": 52
+					}
+				},
+				{
+					"filename": "lava.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 31,
+						"w": 68,
+						"h": 22
+					},
+					"frame": {
+						"x": 182,
+						"y": 776,
+						"w": 68,
+						"h": 22
+					}
+				},
+				{
+					"filename": "wall_nw_hell.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 23,
+						"w": 57,
+						"h": 57
+					},
+					"frame": {
+						"x": 337,
+						"y": 546,
+						"w": 57,
+						"h": 57
+					}
+				},
+				{
+					"filename": "gateway_closed.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 9,
+						"w": 36,
+						"h": 58
+					},
+					"frame": {
+						"x": 394,
+						"y": 548,
+						"w": 36,
+						"h": 58
+					}
+				},
+				{
+					"filename": "wall_ne_ruin.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 25,
+						"w": 53,
+						"h": 55
+					},
+					"frame": {
+						"x": 430,
+						"y": 550,
+						"w": 53,
+						"h": 55
+					}
+				},
+				{
+					"filename": "wall_sw_hell.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 0,
+						"w": 57,
+						"h": 57
+					},
+					"frame": {
+						"x": 483,
+						"y": 580,
+						"w": 57,
+						"h": 57
+					}
+				},
+				{
+					"filename": "wall_sw_ruin.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 0,
+						"w": 53,
+						"h": 55
+					},
+					"frame": {
+						"x": 540,
+						"y": 582,
+						"w": 53,
+						"h": 55
+					}
+				},
+				{
+					"filename": "wand_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 13,
+						"w": 54,
+						"h": 54
+					},
+					"frame": {
+						"x": 593,
+						"y": 582,
+						"w": 54,
+						"h": 54
+					}
+				},
+				{
+					"filename": "hammer_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 11,
+						"w": 32,
+						"h": 58
+					},
+					"frame": {
+						"x": 647,
+						"y": 582,
+						"w": 32,
+						"h": 58
+					}
+				},
+				{
+					"filename": "wall_v_temple.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 0,
+						"w": 18,
+						"h": 80
+					},
+					"frame": {
+						"x": 679,
+						"y": 572,
+						"w": 18,
+						"h": 80
+					}
+				},
+				{
+					"filename": "pine_darkness.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 15,
+						"w": 32,
+						"h": 60
+					},
+					"frame": {
+						"x": 697,
+						"y": 576,
+						"w": 32,
+						"h": 60
+					}
+				},
+				{
+					"filename": "wall_v_stone.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 0,
+						"w": 16,
+						"h": 80
+					},
+					"frame": {
+						"x": 729,
+						"y": 576,
+						"w": 16,
+						"h": 80
+					}
+				},
+				{
+					"filename": "wall_v_volcano_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 0,
+						"w": 10,
+						"h": 80
+					},
+					"frame": {
+						"x": 745,
+						"y": 576,
+						"w": 10,
+						"h": 80
+					}
+				},
+				{
+					"filename": "wall_ne_ice.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 35,
+						"w": 45,
+						"h": 45
+					},
+					"frame": {
+						"x": 755,
+						"y": 615,
+						"w": 45,
+						"h": 45
+					}
+				},
+				{
+					"filename": "hammer_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 11,
+						"w": 32,
+						"h": 58
+					},
+					"frame": {
+						"x": 697,
+						"y": 636,
+						"w": 32,
+						"h": 58
+					}
+				},
+				{
+					"filename": "mountain_darkness.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 37,
+						"w": 72,
+						"h": 26
+					},
+					"frame": {
+						"x": 729,
+						"y": 660,
+						"w": 72,
+						"h": 26
+					}
+				},
+				{
+					"filename": "mountain_ice.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 37,
+						"w": 72,
+						"h": 26
+					},
+					"frame": {
+						"x": 729,
+						"y": 686,
+						"w": 72,
+						"h": 26
+					}
+				},
+				{
+					"filename": "grass_dead.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 49,
+						"w": 30,
+						"h": 24
+					},
+					"frame": {
+						"x": 336,
+						"y": 603,
+						"w": 30,
+						"h": 24
+					}
+				},
+				{
+					"filename": "mountain_red.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 37,
+						"w": 72,
+						"h": 26
+					},
+					"frame": {
+						"x": 366,
+						"y": 606,
+						"w": 72,
+						"h": 26
+					}
+				},
+				{
+					"filename": "wall_ne_stone.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 35,
+						"w": 45,
+						"h": 45
+					},
+					"frame": {
+						"x": 438,
+						"y": 605,
+						"w": 45,
+						"h": 45
+					}
+				},
+				{
+					"filename": "wall_h_hell_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 80,
+						"h": 22
+					},
+					"frame": {
+						"x": 483,
+						"y": 637,
+						"w": 80,
+						"h": 22
+					}
+				},
+				{
+					"filename": "mountain_volcano.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 37,
+						"w": 72,
+						"h": 26
+					},
+					"frame": {
+						"x": 366,
+						"y": 632,
+						"w": 72,
+						"h": 26
+					}
+				},
+				{
+					"filename": "wall_h_hell_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 35,
+						"w": 80,
+						"h": 10
+					},
+					"frame": {
+						"x": 351,
+						"y": 658,
+						"w": 80,
+						"h": 10
+					}
+				},
+				{
+					"filename": "wall_h_ice.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 35,
+						"w": 80,
+						"h": 10
+					},
+					"frame": {
+						"x": 351,
+						"y": 668,
+						"w": 80,
+						"h": 10
+					}
+				},
+				{
+					"filename": "wall_h_temple.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 35,
+						"w": 80,
+						"h": 10
+					},
+					"frame": {
+						"x": 351,
+						"y": 678,
+						"w": 80,
+						"h": 10
+					}
+				},
+				{
+					"filename": "wall_ne_temple.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 35,
+						"w": 45,
+						"h": 45
+					},
+					"frame": {
+						"x": 366,
+						"y": 688,
+						"w": 45,
+						"h": 45
+					}
+				},
+				{
+					"filename": "wall_ne_volcano.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 35,
+						"w": 45,
+						"h": 45
+					},
+					"frame": {
+						"x": 366,
+						"y": 733,
+						"w": 45,
+						"h": 45
+					}
+				},
+				{
+					"filename": "water.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 31,
+						"w": 68,
+						"h": 22
+					},
+					"frame": {
+						"x": 358,
+						"y": 778,
+						"w": 68,
+						"h": 22
+					}
+				},
+				{
+					"filename": "wall_nw.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 35,
+						"w": 45,
+						"h": 45
+					},
+					"frame": {
+						"x": 411,
+						"y": 688,
+						"w": 45,
+						"h": 45
+					}
+				},
+				{
+					"filename": "wall_nw_desert.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 35,
+						"w": 45,
+						"h": 45
+					},
+					"frame": {
+						"x": 411,
+						"y": 733,
+						"w": 45,
+						"h": 45
+					}
+				},
+				{
+					"filename": "wall_h_volcano.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 35,
+						"w": 80,
+						"h": 10
+					},
+					"frame": {
+						"x": 456,
+						"y": 659,
+						"w": 80,
+						"h": 10
+					}
+				},
+				{
+					"filename": "wall_nw_ice.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 35,
+						"w": 45,
+						"h": 45
+					},
+					"frame": {
+						"x": 456,
+						"y": 669,
+						"w": 45,
+						"h": 45
+					}
+				},
+				{
+					"filename": "wall_nw_temple.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 35,
+						"w": 45,
+						"h": 45
+					},
+					"frame": {
+						"x": 456,
+						"y": 714,
+						"w": 45,
+						"h": 45
+					}
+				},
+				{
+					"filename": "wall_nw_volcano.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 35,
+						"w": 45,
+						"h": 45
+					},
+					"frame": {
+						"x": 501,
+						"y": 669,
+						"w": 45,
+						"h": 45
+					}
+				},
+				{
+					"filename": "wall_se.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 45,
+						"h": 45
+					},
+					"frame": {
+						"x": 501,
+						"y": 714,
+						"w": 45,
+						"h": 45
+					}
+				},
+				{
+					"filename": "wall_h_desert_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 31,
+						"w": 68,
+						"h": 20
+					},
+					"frame": {
+						"x": 456,
+						"y": 759,
+						"w": 68,
+						"h": 20
+					}
+				},
+				{
+					"filename": "grass_green.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 49,
+						"w": 30,
+						"h": 24
+					},
+					"frame": {
+						"x": 426,
+						"y": 778,
+						"w": 30,
+						"h": 24
+					}
+				},
+				{
+					"filename": "grassalt.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 49,
+						"w": 30,
+						"h": 24
+					},
+					"frame": {
+						"x": 456,
+						"y": 779,
+						"w": 30,
+						"h": 24
+					}
+				},
+				{
+					"filename": "door_closed.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 19,
+						"w": 44,
+						"h": 42
+					},
+					"frame": {
+						"x": 563,
+						"y": 637,
+						"w": 44,
+						"h": 42
+					}
+				},
+				{
+					"filename": "wall_se_desert.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 45,
+						"h": 45
+					},
+					"frame": {
+						"x": 546,
+						"y": 679,
+						"w": 45,
+						"h": 45
+					}
+				},
+				{
+					"filename": "wall_se_hell.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 45,
+						"h": 45
+					},
+					"frame": {
+						"x": 546,
+						"y": 724,
+						"w": 45,
+						"h": 45
+					}
+				},
+				{
+					"filename": "wall_se_ice.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 45,
+						"h": 45
+					},
+					"frame": {
+						"x": 591,
+						"y": 679,
+						"w": 45,
+						"h": 45
+					}
+				},
+				{
+					"filename": "wall_se_stone.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 45,
+						"h": 45
+					},
+					"frame": {
+						"x": 591,
+						"y": 724,
+						"w": 45,
+						"h": 45
+					}
+				},
+				{
+					"filename": "wall_se_temple.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 45,
+						"h": 45
+					},
+					"frame": {
+						"x": 636,
+						"y": 712,
+						"w": 45,
+						"h": 45
+					}
+				},
+				{
+					"filename": "wall_se_volcano.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 45,
+						"h": 45
+					},
+					"frame": {
+						"x": 636,
+						"y": 757,
+						"w": 45,
+						"h": 45
+					}
+				},
+				{
+					"filename": "wall_sw.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 0,
+						"w": 45,
+						"h": 45
+					},
+					"frame": {
+						"x": 681,
+						"y": 694,
+						"w": 45,
+						"h": 45
+					}
+				},
+				{
+					"filename": "wall_sw_desert.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 0,
+						"w": 45,
+						"h": 45
+					},
+					"frame": {
+						"x": 681,
+						"y": 739,
+						"w": 45,
+						"h": 45
+					}
+				},
+				{
+					"filename": "wall_sw_ice.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 0,
+						"w": 45,
+						"h": 45
+					},
+					"frame": {
+						"x": 726,
+						"y": 712,
+						"w": 45,
+						"h": 45
+					}
+				},
+				{
+					"filename": "wall_sw_temple.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 0,
+						"w": 45,
+						"h": 45
+					},
+					"frame": {
+						"x": 726,
+						"y": 757,
+						"w": 45,
+						"h": 45
+					}
+				},
+				{
+					"filename": "floor.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 53,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 557,
+						"y": 276,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "floor_desert.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 53,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 154,
+						"y": 788,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "floor_dirt.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 53,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 168,
+						"y": 788,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "floor_fire_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 53,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 524,
+						"y": 759,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "floor_fire_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 53,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 486,
+						"y": 779,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "floor_fire_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 53,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 771,
+						"y": 712,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "floor_hell.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 53,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 681,
+						"y": 784,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "floor_ice_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 53,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 557,
+						"y": 290,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "floor_ice_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 53,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 500,
+						"y": 779,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "floor_stone.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 53,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 771,
+						"y": 726,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "wall_sw_volcano.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 0,
+						"w": 45,
+						"h": 45
+					},
+					"frame": {
+						"x": 636,
+						"y": 652,
+						"w": 45,
+						"h": 45
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:8b2c3742689b4d65770528312fbc5ac4:5def0e79869b70967ab43597201dd58d:94182008ff70a9bd098d43bec0575f53$"
+	}
+}

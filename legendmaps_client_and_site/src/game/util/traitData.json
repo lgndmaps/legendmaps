@@ -1,0 +1,590 @@
+{
+    "traits": [
+        {
+            "trait": "Thick Skin",
+
+            "id": 3,
+            "desc": "Natural resistance to blade attacks."
+        },
+        {
+            "trait": "Unpierceable",
+
+            "id": 4,
+            "desc": "Natural resistance to piercing attacks."
+        },
+        {
+            "trait": "Brute",
+
+            "id": 5,
+            "desc": "Natural resistance to bludgeon attacks."
+        },
+        {
+            "trait": "Icy Veins",
+
+            "id": 6,
+            "desc": "Natural resistance to fire."
+        },
+        {
+            "trait": "Runs Hot",
+
+            "id": 7,
+            "desc": "Natural resistance to cold."
+        },
+        {
+            "trait": "Strong Metabolism",
+
+            "id": 8,
+            "desc": "Natural resistance to poison."
+        },
+        {
+            "trait": "Well-Grounded",
+
+            "id": 9,
+            "desc": "Natural resistance to electric damage."
+        },
+        {
+            "trait": "Vivacious",
+
+            "id": 10,
+            "desc": "Natural resistance to necrotic damage."
+        },
+        {
+            "trait": "Skeptic",
+
+            "id": 11,
+            "desc": "Natural resistance to arcane & necrotic damage."
+        },
+        {
+            "trait": "Insulated",
+
+            "id": 12,
+            "desc": "Natural resistance to cold & electric damage."
+        },
+        {
+            "trait": "Nimble",
+
+            "id": 13,
+            "desc": "Innate bonus to dodge."
+        },
+        {
+            "trait": "Lucky Strike",
+
+            "id": 14,
+            "desc": "Innate bonus to hit on all attacks."
+        },
+        {
+            "trait": "Eagle Eye",
+
+            "id": 15,
+            "desc": "Critical hit bonus with agility weapons."
+        },
+        {
+            "trait": "Slugger",
+
+            "id": 16,
+            "desc": "Critical hit bonus with brawn weapons."
+        },
+        {
+            "trait": "Reliable",
+
+            "id": 17,
+            "desc": "A reliable fighter. Innate high defense, but reduced critical hit chance."
+        },
+        {
+            "trait": "Procrastinator",
+
+            "id": 18,
+            "desc": "Fights best when close to death."
+        },
+        {
+            "trait": "Physician",
+
+            "id": 19,
+            "desc": "Bonus to all healing effects."
+        },
+        {
+            "trait": "Oblivious",
+
+            "id": 20,
+            "desc": "Lower chance of trap detection."
+        },
+        {
+            "trait": "Escape Artist",
+
+            "id": 21,
+            "desc": "Always aware of location of stairs to next level."
+        },
+        {
+            "trait": "Trapper",
+
+            "id": 22,
+            "desc": "Bonus when attempting to disarm traps."
+        },
+        {
+            "trait": "Tinkerer",
+
+            "id": 23,
+            "desc": "Chance to create a useful potion when disarming a trap."
+        },
+        {
+            "trait": "Big Drinker",
+
+            "id": 24,
+            "desc": "Drinking any potion also provides a healing effect."
+        },
+        {
+            "trait": "Safecracker",
+
+            "id": 25,
+            "desc": "Expert at finding hidden compartments. Better gear from chests."
+        },
+        {
+            "trait": "Treasure Hunter",
+
+            "id": 26,
+            "desc": "Chance to find bonus gold and gems."
+        },
+        {
+            "trait": "Gourmand",
+
+            "id": 27,
+            "desc": "Chance to find bonus food & potions."
+        },
+        {
+            "trait": "Librarian",
+
+            "id": 28,
+            "desc": "Chance to find bonus scrolls."
+        },
+        {
+            "trait": "Hunter",
+
+            "id": 29,
+            "desc": "An expert at hunting beasts. Attack bonus vs. beasts."
+        },
+        {
+            "trait": "Gravedigger",
+
+            "id": 30,
+            "desc": "Special knowledge on those returned from the grave. Attack bonus vs. Undead."
+        },
+        {
+            "trait": "Clean Freak",
+
+            "id": 31,
+            "desc": "Knows just how to clean up those stubborn stains. Attack bonus vs. Oozes."
+        },
+        {
+            "trait": "Assassin",
+
+            "id": 32,
+            "desc": "Trained in fighting humans & the human-like. Attack bonus vs. humanoids."
+        },
+        {
+            "trait": "Spelunker",
+
+            "id": 33,
+            "desc": "Learned of the horrors of the deepest dungeons. Attack bonus vs. Deep Ones."
+        },
+        {
+            "trait": "Fey Slayer",
+
+            "id": 34,
+            "desc": "Skilled at avoiding the tricks of fey folk. Attack bonus vs. Fey."
+        },
+        {
+            "trait": "Chosen One",
+
+            "id": 35,
+            "desc": "Student of dwellers of myth. Attack bonus vs. Mythics."
+        },
+        {
+            "trait": "Demonslayer",
+
+            "id": 36,
+            "desc": "Dedicated to fighting the spawn of the hells. Attack bonus vs. demons."
+        },
+        {
+            "trait": "People Person",
+
+            "id": 37,
+            "desc": "Stronger attacks but vulnerable when fighting beasts."
+        },
+        {
+            "trait": "Necrophobic",
+
+            "id": 38,
+            "desc": "Stronger attacks but vulnerable when fighting undead."
+        },
+        {
+            "trait": "Sludge Grudge",
+
+            "id": 39,
+            "desc": "Stronger attacks but vulnerable when fighting oozes."
+        },
+        {
+            "trait": "Misanthrope",
+
+            "id": 40,
+            "desc": "Stronger attacks but vulnerable when fighting humanoids."
+        },
+        {
+            "trait": "H.P. Hatecraft",
+
+            "id": 41,
+            "desc": "Stronger attacks but vulnerable when fighting deep ones."
+        },
+        {
+            "trait": "Fairy Tale Hater",
+
+            "id": 42,
+            "desc": "Stronger attacks but vulnerable when fighting the fey."
+        },
+        {
+            "trait": "Realist",
+
+            "id": 43,
+            "desc": "Stronger attacks but vulnerable when fighting mythics."
+        },
+        {
+            "trait": "Sanctimonious",
+
+            "id": 44,
+            "desc": "Stronger attacks but vulnerable when fighting demons."
+        },
+        {
+            "trait": "Polymath",
+
+            "id": 45,
+            "desc": "A skilled student, +1 skill to choose from on level up."
+        },
+        {
+            "trait": "Stress Eater",
+
+            "id": 46,
+            "desc": "Grows hungry faster, but eating provides additional healing."
+        },
+        {
+            "trait": "Sneaky",
+
+            "id": 47,
+            "desc": "Less likely to be detected by dwellers."
+        },
+        {
+            "trait": "Oafish",
+
+            "id": 48,
+            "desc": "Increased defense & immune to knockback, but easier for dwellers to detect."
+        },
+        {
+            "trait": "Low Metabolism",
+
+            "id": 49,
+            "desc": "Slower to hunger, but less healing from food."
+        },
+        {
+            "trait": "Paranoid",
+
+            "id": 50,
+            "desc": "Expert at spotting traps, but vulnerable to mental attacks."
+        },
+        {
+            "trait": "Hardy Stock",
+
+            "id": 51,
+            "desc": "Full of life and hard to kill. Bonus to health."
+        },
+        {
+            "trait": "Troll Blood",
+
+            "id": 52,
+            "desc": "Faster natural healing but vulnerable to fire."
+        },
+        {
+            "trait": "Focused",
+
+            "id": 53,
+            "desc": "Immune to confusion."
+        },
+        {
+            "trait": "Scavenger",
+
+            "id": 54,
+            "desc": "Chance to find bonus loot on defeated enemies."
+        },
+        {
+            "trait": "Unstoppable",
+
+            "id": 55,
+            "desc": "Resistant to being stunned or held."
+        },
+        {
+            "trait": "Innocent",
+
+            "id": 56,
+            "desc": "Immune to charm. Dwellers more likely to spawn asleep or peaceful."
+        },
+        {
+            "trait": "Underdog",
+
+            "id": 57,
+            "desc": "Always underestimated by opponents. Increased base dodge."
+        },
+        {
+            "trait": "Fey Touched",
+
+            "id": 58,
+            "desc": "Luck bonus, increased gold found."
+        },
+        {
+            "trait": "Fire Walker",
+
+            "id": 59,
+            "desc": "Extra health in maps with volcanic biome or walls."
+        },
+        {
+            "trait": "Northerner",
+
+            "id": 60,
+            "desc": "Extra health in maps with ice biome or walls."
+        },
+        {
+            "trait": "Sand Crawler",
+
+            "id": 61,
+            "desc": "Extra health in maps with desert biome or walls."
+        },
+        {
+            "trait": "Goth",
+
+            "id": 62,
+            "desc": "Extra health & defense in graveyard biome maps"
+        },
+        {
+            "trait": "Naturalist",
+
+            "id": 63,
+            "desc": "Extra health in forest biome maps"
+        },
+        {
+            "trait": "Mountaineer",
+
+            "id": 64,
+            "desc": "Extra health in mountain biome maps."
+        },
+        {
+            "trait": "Hell Walker",
+
+            "id": 65,
+            "desc": "Extra health & defense in maps with hell biome or walls."
+        },
+        {
+            "trait": "Greenskeeper",
+
+            "id": 66,
+            "desc": "Extra health in grasslands biome maps"
+        },
+        {
+            "trait": "Ruins Raider",
+
+            "id": 67,
+            "desc": "Extra health & defense in ruins"
+        },
+        {
+            "trait": "Temple Charter",
+
+            "id": 68,
+            "desc": "Extra health & defense in temples."
+        },
+        {
+            "trait": "Rune Reader",
+
+            "id": 69,
+            "desc": "Maps with rune line art are partially revealed to you."
+        },
+        {
+            "trait": "Glitch Walker",
+
+            "id": 70,
+            "desc": "Bonus to health & defense in any glitch maps."
+        },
+        {
+            "trait": "Silver Spoon",
+
+            "id": 71,
+            "desc": "Start with a small fortune in extra gold."
+        },
+        {
+            "trait": "Smith's Apprentice",
+
+            "id": 72,
+            "desc": "Start with a Hammer."
+        },
+        {
+            "trait": "Lumberjack",
+
+            "id": 73,
+            "desc": "Start with an Axe."
+        },
+        {
+            "trait": "Fletcher",
+
+            "id": 74,
+            "desc": "Start with a Bow"
+        },
+        {
+            "trait": "Squire",
+
+            "id": 75,
+            "desc": "Start with a Sword."
+        },
+        {
+            "trait": "Fisher",
+
+            "id": 76,
+            "desc": "Start with a Spear."
+        },
+        {
+            "trait": "Apprentice",
+
+            "id": 77,
+            "desc": "Start with a Wand."
+        },
+        {
+            "trait": "Initiate",
+
+            "id": 78,
+            "desc": "Start with a Staff."
+        },
+        {
+            "trait": "Cutpurse",
+
+            "id": 79,
+            "desc": "Start with a Dagger."
+        },
+        {
+            "trait": "Scribe",
+
+            "id": 80,
+            "desc": "Start with a random scroll."
+        },
+        {
+            "trait": "Locksmith",
+
+            "id": 81,
+            "desc": "Start with multiple keys."
+        },
+        {
+            "trait": "Alchemist",
+
+            "id": 82,
+            "desc": "Start with a random potion."
+        },
+        {
+            "trait": "Town Watch",
+
+            "id": 83,
+            "desc": "Start with a shield"
+        },
+        {
+            "trait": "Jeweler",
+
+            "id": 84,
+            "desc": "Start with a ring or amulet"
+        },
+        {
+            "trait": "Pauper",
+
+            "id": 85,
+            "desc": "Reduced starting gear"
+        },
+        {
+            "trait": "Merchant",
+
+            "id": 88,
+            "desc": "An expert haggler, cheaper prices."
+        },
+        {
+            "trait": "Profligate",
+
+            "id": 89,
+            "desc": "Terrible with money, higher prices at shops."
+        },
+        {
+            "trait": "Charming",
+
+            "id": 90,
+            "desc": "A sweet talker, bonus in story events."
+        },
+        {
+            "trait": "Intimidating",
+
+            "id": 91,
+            "desc": "A powerful presence, bonus in story events."
+        },
+        {
+            "trait": "Deceptive",
+
+            "id": 92,
+            "desc": "A skilled liar, bonus in story events."
+        },
+        {
+            "trait": "Grizzled Veteran",
+            "id": 93,
+            "desc": "Begin all campaigns at level 2"
+        },
+        {
+            "trait": "Glitch: CGA",
+
+            "id": 94,
+            "desc": "Start with a rare weapon."
+        },
+        {
+            "trait": "Glitch: Ascii",
+
+            "id": 95,
+            "desc": "Start with rare armor."
+        },
+        {
+            "trait": "Glitch: Terminal",
+
+            "id": 96,
+            "desc": "Start with a rare ring."
+        },
+        {
+            "trait": "Glitch: Graph Paper",
+
+            "id": 97,
+            "desc": "Start with 3 random scrolls."
+        },
+        {
+            "trait": "Awkward",
+
+            "id": 98,
+            "desc": "Poor at small talk, penalty in some story events."
+        },
+        {
+            "trait": "Glitch: Rainbow",
+
+            "id": 99,
+            "desc": "Random strong positive trait on every run."
+        },
+        {
+            "trait": "Blessed",
+
+            "id": 100,
+            "desc": "Blessed by the oracle."
+        },
+        {
+            "trait": "Lore Keeper",
+
+            "id": 101,
+            "desc": "Holder of rare knowledge."
+        },
+        {
+            "trait": "Plot Armor",
+            "id": 102,
+            "desc": "Significant bonus to starting health"
+        }
+    ]
+}

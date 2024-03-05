@@ -1,0 +1,713 @@
+{
+	"textures": [
+		{
+			"image": "storyevent.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1410,
+				"h": 1974
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "eva_barrel.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 280
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 280,
+						"h": 280
+					}
+				},
+				{
+					"filename": "evt_adv_chest.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 280
+					},
+					"frame": {
+						"x": 1,
+						"y": 283,
+						"w": 280,
+						"h": 280
+					}
+				},
+				{
+					"filename": "evt_altar.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 280
+					},
+					"frame": {
+						"x": 1,
+						"y": 565,
+						"w": 280,
+						"h": 280
+					}
+				},
+				{
+					"filename": "evt_cauldron.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 280
+					},
+					"frame": {
+						"x": 1,
+						"y": 847,
+						"w": 280,
+						"h": 280
+					}
+				},
+				{
+					"filename": "evt_chest.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 280
+					},
+					"frame": {
+						"x": 1,
+						"y": 1129,
+						"w": 280,
+						"h": 280
+					}
+				},
+				{
+					"filename": "evt_door.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 280
+					},
+					"frame": {
+						"x": 1,
+						"y": 1411,
+						"w": 280,
+						"h": 280
+					}
+				},
+				{
+					"filename": "evt_door_magic.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 280
+					},
+					"frame": {
+						"x": 1,
+						"y": 1693,
+						"w": 280,
+						"h": 280
+					}
+				},
+				{
+					"filename": "evt_door_open.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 280
+					},
+					"frame": {
+						"x": 283,
+						"y": 1,
+						"w": 280,
+						"h": 280
+					}
+				},
+				{
+					"filename": "evt_door_secret.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 280
+					},
+					"frame": {
+						"x": 283,
+						"y": 283,
+						"w": 280,
+						"h": 280
+					}
+				},
+				{
+					"filename": "evt_fountain.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 280
+					},
+					"frame": {
+						"x": 283,
+						"y": 565,
+						"w": 280,
+						"h": 280
+					}
+				},
+				{
+					"filename": "evt_gas.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 280
+					},
+					"frame": {
+						"x": 283,
+						"y": 847,
+						"w": 280,
+						"h": 280
+					}
+				},
+				{
+					"filename": "evt_goblindice.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 280
+					},
+					"frame": {
+						"x": 283,
+						"y": 1129,
+						"w": 280,
+						"h": 280
+					}
+				},
+				{
+					"filename": "evt_gravestone.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 280
+					},
+					"frame": {
+						"x": 283,
+						"y": 1411,
+						"w": 280,
+						"h": 280
+					}
+				},
+				{
+					"filename": "evt_lightning.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 280
+					},
+					"frame": {
+						"x": 283,
+						"y": 1693,
+						"w": 280,
+						"h": 280
+					}
+				},
+				{
+					"filename": "evt_lostpunk.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 280
+					},
+					"frame": {
+						"x": 565,
+						"y": 1,
+						"w": 280,
+						"h": 280
+					}
+				},
+				{
+					"filename": "evt_losttoad.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 280
+					},
+					"frame": {
+						"x": 565,
+						"y": 283,
+						"w": 280,
+						"h": 280
+					}
+				},
+				{
+					"filename": "evt_pit.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 280
+					},
+					"frame": {
+						"x": 565,
+						"y": 565,
+						"w": 280,
+						"h": 280
+					}
+				},
+				{
+					"filename": "evt_portal.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 280
+					},
+					"frame": {
+						"x": 565,
+						"y": 847,
+						"w": 280,
+						"h": 280
+					}
+				},
+				{
+					"filename": "evt_pyramid.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 280
+					},
+					"frame": {
+						"x": 565,
+						"y": 1129,
+						"w": 280,
+						"h": 280
+					}
+				},
+				{
+					"filename": "evt_spike.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 280
+					},
+					"frame": {
+						"x": 565,
+						"y": 1411,
+						"w": 280,
+						"h": 280
+					}
+				},
+				{
+					"filename": "evt_statue.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 280
+					},
+					"frame": {
+						"x": 565,
+						"y": 1693,
+						"w": 280,
+						"h": 280
+					}
+				},
+				{
+					"filename": "evt_statue_hell.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 280
+					},
+					"frame": {
+						"x": 847,
+						"y": 1,
+						"w": 280,
+						"h": 280
+					}
+				},
+				{
+					"filename": "evt_torture.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 280
+					},
+					"frame": {
+						"x": 847,
+						"y": 283,
+						"w": 280,
+						"h": 280
+					}
+				},
+				{
+					"filename": "evt_trashpile.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 280
+					},
+					"frame": {
+						"x": 847,
+						"y": 565,
+						"w": 280,
+						"h": 280
+					}
+				},
+				{
+					"filename": "evt_tree.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 280
+					},
+					"frame": {
+						"x": 847,
+						"y": 847,
+						"w": 280,
+						"h": 280
+					}
+				},
+				{
+					"filename": "evt_waspnest.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 280
+					},
+					"frame": {
+						"x": 847,
+						"y": 1129,
+						"w": 280,
+						"h": 280
+					}
+				},
+				{
+					"filename": "evt_web.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 280
+					},
+					"frame": {
+						"x": 847,
+						"y": 1411,
+						"w": 280,
+						"h": 280
+					}
+				},
+				{
+					"filename": "merchant_armor.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 280
+					},
+					"frame": {
+						"x": 847,
+						"y": 1693,
+						"w": 280,
+						"h": 280
+					}
+				},
+				{
+					"filename": "merchant_clothing.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 280
+					},
+					"frame": {
+						"x": 1129,
+						"y": 1,
+						"w": 280,
+						"h": 280
+					}
+				},
+				{
+					"filename": "merchant_food.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 280
+					},
+					"frame": {
+						"x": 1129,
+						"y": 283,
+						"w": 280,
+						"h": 280
+					}
+				},
+				{
+					"filename": "merchant_magic.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 280
+					},
+					"frame": {
+						"x": 1129,
+						"y": 565,
+						"w": 280,
+						"h": 280
+					}
+				},
+				{
+					"filename": "merchant_potion.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 280
+					},
+					"frame": {
+						"x": 1129,
+						"y": 847,
+						"w": 280,
+						"h": 280
+					}
+				},
+				{
+					"filename": "merchant_weapon.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 280
+					},
+					"frame": {
+						"x": 1129,
+						"y": 1129,
+						"w": 280,
+						"h": 280
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:fd235cf86641d8a96ab4670c7e9b6851:20901f82d3805ebd8a383d636108eed6:3971d867221e796715c7636733833bb6$"
+	}
+}

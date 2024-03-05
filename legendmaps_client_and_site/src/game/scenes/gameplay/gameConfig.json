@@ -1,0 +1,13 @@
+{
+  "versionMajor": 0,
+  "versionMinor": 7,
+  "eventDebugging": false,
+  "showAlignGrid": false,
+  "combatSpeedMult": 1,
+  "tileSize": 60,
+  "mapNavigation": true,
+  "pixelWidth": 1260,
+  "pixelHeight": 760,
+  "showTileCoord": false,
+  "gameMusic": true
+}

@@ -1,0 +1,375 @@
+CR: 1 -- Rarity: common
+----------
+weapon type	 avg damvalue
+sword 		 7.50		125.00
+bow 		 6.41		176.80
+axe 		 7.00		120.00
+dagger 		 7.35		195.00
+hammer 		 12.50		175.00
+spear 		 9.93		160.10
+staff 		 8.47		261.40
+wand 		 6.60		248.60
+
+Avg Damage All Weapon Types (CR: 1, rarity: common): 8.22
+------------
+
+CR: 1 -- Rarity: uncommon
+----------
+weapon type	 avg dam	value
+sword 		 11.70		267.54
+bow 		 10.09		324.84
+axe 		 11.22		279.84
+dagger 		 11.48		347.40
+hammer 		 18.53		344.82
+spear 		 14.42		308.75
+staff 		 12.78		454.41
+wand 		 10.20		427.60
+
+Avg Damage All Weapon Types (CR: 1, rarity: uncommon): 12.55
+------------
+
+CR: 1 -- Rarity: rare
+----------
+weapon type	 avg dam	value
+sword 		 17.31		408.59
+bow 		 14.47		436.14
+axe 		 15.70		373.42
+dagger 		 16.72		464.98
+hammer 		 24.75		464.09
+spear 		 19.69		438.20
+staff 		 17.45		549.97
+wand 		 13.88		563.48
+
+Avg Damage All Weapon Types (CR: 1, rarity: rare): 17.50
+------------
+
+CR: 1 -- Rarity: epic
+----------
+weapon type	 avg dam	value
+sword 		 23.35		641.33
+bow 		 20.74		649.22
+axe 		 21.59		599.84
+dagger 		 22.51		679.81
+hammer 		 34.26		734.10
+spear 		 29.73		680.14
+staff 		 26.06		767.99
+wand 		 22.37		798.14
+
+Avg Damage All Weapon Types (CR: 1, rarity: epic): 25.08
+------------
+
+CR: 1 -- Rarity: legendary
+----------
+weapon type	 avg dam	value
+sword 		 33.84		957.99
+bow 		 29.30		956.84
+axe 		 30.61		950.32
+dagger 		 33.83		1028.88
+hammer 		 49.15		1069.37
+spear 		 40.16		992.73
+staff 		 37.75		1124.15
+wand 		 33.40		1181.55
+
+Avg Damage All Weapon Types (CR: 1, rarity: legendary): 36.00
+------------
+
+CR: 2 -- Rarity: common
+----------
+weapon type	 avg dam	value
+sword 		 13.32		291.25
+bow 		 9.70		291.70
+axe 		 12.08		245.80
+dagger 		 10.19		333.15
+hammer 		 18.62		311.20
+spear 		 15.24		289.80
+staff 		 11.78		407.10
+wand 		 9.68		355.49
+
+Avg Damage All Weapon Types (CR: 2, rarity: common): 12.58
+------------
+
+CR: 2 -- Rarity: uncommon
+----------
+weapon type	 avg dam	value
+sword 		 18.59		418.36
+bow 		 14.16		407.87
+axe 		 17.31		364.44
+dagger 		 14.71		428.93
+hammer 		 25.21		441.27
+spear 		 21.72		424.56
+staff 		 16.45		501.47
+wand 		 13.74		490.08
+
+Avg Damage All Weapon Types (CR: 2, rarity: uncommon): 17.74
+------------
+
+CR: 2 -- Rarity: rare
+----------
+weapon type	 avg dam	value
+sword 		 24.34		557.30
+bow 		 18.72		524.63
+axe 		 22.85		494.25
+dagger 		 19.49		569.57
+hammer 		 32.97		612.40
+spear 		 28.01		553.69
+staff 		 22.00		608.98
+wand 		 17.77		652.76
+
+Avg Damage All Weapon Types (CR: 2, rarity: rare): 23.27
+------------
+
+CR: 2 -- Rarity: epic
+----------
+weapon type	 avg dam	value
+sword 		 32.95		773.48
+bow 		 24.13		715.17
+axe 		 28.75		699.45
+dagger 		 26.52		815.17
+hammer 		 42.45		830.61
+spear 		 37.49		831.13
+staff 		 29.72		835.18
+wand 		 24.25		889.41
+
+Avg Damage All Weapon Types (CR: 2, rarity: epic): 30.78
+------------
+
+CR: 2 -- Rarity: legendary
+----------
+weapon type	 avg dam	value
+sword 		 47.41		1214.13
+bow 		 36.46		1173.48
+axe 		 42.90		1126.51
+dagger 		 38.07		1175.86
+hammer 		 60.81		1282.52
+spear 		 52.32		1218.56
+staff 		 44.21		1266.65
+wand 		 36.90		1373.00
+
+Avg Damage All Weapon Types (CR: 2, rarity: legendary): 44.89
+------------
+
+CR: 3 -- Rarity: common
+----------
+weapon type	 avg dam	value
+sword 		 14.78		316.50
+bow 		 9.52		290.20
+axe 		 15.52		280.20
+dagger 		 10.22		329.90
+hammer 		 19.01		315.10
+spear 		 16.81		326.30
+staff 		 11.93		379.05
+wand 		 9.55		363.14
+
+Avg Damage All Weapon Types (CR: 3, rarity: common): 13.42
+------------
+
+CR: 3 -- Rarity: uncommon
+----------
+weapon type	 avg dam	value
+sword 		 20.55		449.45
+bow 		 13.42		386.53
+axe 		 22.24		421.03
+dagger 		 14.62		452.60
+hammer 		 25.01		446.26
+spear 		 24.06		466.75
+staff 		 16.41		477.01
+wand 		 14.04		481.84
+
+Avg Damage All Weapon Types (CR: 3, rarity: uncommon): 18.79
+------------
+
+CR: 3 -- Rarity: rare
+----------
+weapon type	 avg dam	value
+sword 		 27.28		584.09
+bow 		 17.43		508.02
+axe 		 27.31		539.41
+dagger 		 19.58		577.24
+hammer 		 32.13		587.23
+spear 		 30.03		589.02
+staff 		 21.78		631.79
+wand 		 17.82		642.51
+
+Avg Damage All Weapon Types (CR: 3, rarity: rare): 24.17
+------------
+
+CR: 3 -- Rarity: epic
+----------
+weapon type	 avg dam	value
+sword 		 35.49		831.37
+bow 		 25.82		740.43
+axe 		 38.33		765.03
+dagger 		 27.36		782.16
+hammer 		 41.41		827.08
+spear 		 39.28		860.74
+staff 		 27.49		823.80
+wand 		 24.89		892.00
+
+Avg Damage All Weapon Types (CR: 3, rarity: epic): 32.51
+------------
+
+CR: 3 -- Rarity: legendary
+----------
+weapon type	 avg dam	value
+sword 		 51.63		1250.95
+bow 		 36.75		1153.80
+axe 		 52.06		1201.82
+dagger 		 36.46		1190.58
+hammer 		 60.12		1311.17
+spear 		 55.91		1271.63
+staff 		 41.89		1267.91
+wand 		 37.81		1365.00
+
+Avg Damage All Weapon Types (CR: 3, rarity: legendary): 46.58
+------------
+
+CR: 4 -- Rarity: common
+----------
+weapon type	 avg dam	value
+sword 		 20.11		404.55
+bow 		 12.99		359.65
+axe 		 20.32		363.15
+dagger 		 13.74		397.00
+hammer 		 24.98		409.75
+spear 		 21.56		402.75
+staff 		 15.42		451.60
+wand 		 12.81		433.82
+
+Avg Damage All Weapon Types (CR: 4, rarity: common): 17.74
+------------
+
+CR: 4 -- Rarity: uncommon
+----------
+weapon type	 avg dam	value
+sword 		 25.92		534.76
+bow 		 17.53		487.42
+axe 		 27.68		507.12
+dagger 		 17.74		511.42
+hammer 		 31.60		555.04
+spear 		 29.40		567.73
+staff 		 20.66		570.19
+wand 		 16.65		600.49
+
+Avg Damage All Weapon Types (CR: 4, rarity: uncommon): 23.40
+------------
+
+CR: 4 -- Rarity: rare
+----------
+weapon type	 avg dam	value
+sword 		 33.44		653.08
+bow 		 21.47		579.44
+axe 		 33.63		629.62
+dagger 		 23.74		652.79
+hammer 		 39.47		683.27
+spear 		 36.19		681.42
+staff 		 25.88		681.35
+wand 		 21.51		694.91
+
+Avg Damage All Weapon Types (CR: 4, rarity: rare): 29.42
+------------
+
+CR: 4 -- Rarity: epic
+----------
+weapon type	 avg dam	value
+sword 		 42.90		972.46
+bow 		 30.32		899.04
+axe 		 47.01		976.74
+dagger 		 32.38		930.11
+hammer 		 53.61		1042.57
+spear 		 49.84		1022.41
+staff 		 36.38		1012.73
+wand 		 30.51		1051.38
+
+Avg Damage All Weapon Types (CR: 4, rarity: epic): 40.37
+------------
+
+CR: 4 -- Rarity: legendary
+----------
+weapon type	 avg dam	value
+sword 		 61.25		1434.28
+bow 		 44.26		1279.78
+axe 		 62.44		1434.18
+dagger 		 44.34		1375.21
+hammer 		 70.66		1496.40
+spear 		 67.65		1520.55
+staff 		 47.50		1428.68
+wand 		 41.89		1633.90
+
+Avg Damage All Weapon Types (CR: 4, rarity: legendary): 55.00
+------------
+
+CR: 5 -- Rarity: common
+----------
+weapon type	 avg dam	value
+sword 		 19.92		400.90
+bow 		 13.09		363.90
+axe 		 20.37		363.70
+dagger 		 13.61		404.80
+hammer 		 24.54		405.35
+spear 		 21.99		410.75
+staff 		 15.39		456.70
+wand 		 12.78		435.55
+
+Avg Damage All Weapon Types (CR: 5, rarity: common): 17.71
+------------
+
+CR: 5 -- Rarity: uncommon
+----------
+weapon type	 avg dam	value
+sword 		 25.35		522.09
+bow 		 17.64		485.77
+axe 		 26.61		494.53
+dagger 		 18.04		518.88
+hammer 		 32.31		548.59
+spear 		 29.73		558.97
+staff 		 20.85		584.73
+wand 		 17.31		602.59
+
+Avg Damage All Weapon Types (CR: 5, rarity: uncommon): 23.48
+------------
+
+CR: 5 -- Rarity: rare
+----------
+weapon type	 avg dam	value
+sword 		 32.02		655.56
+bow 		 22.61		602.14
+axe 		 34.69		640.14
+dagger 		 23.07		622.44
+hammer 		 38.47		677.20
+spear 		 36.10		671.73
+staff 		 24.86		673.11
+wand 		 21.92		726.31
+
+Avg Damage All Weapon Types (CR: 5, rarity: rare): 29.22
+------------
+
+CR: 5 -- Rarity: epic
+----------
+weapon type	 avg dam	value
+sword 		 44.52		998.43
+bow 		 31.53		892.40
+axe 		 47.14		959.54
+dagger 		 33.30		940.23
+hammer 		 56.03		1088.43
+spear 		 49.44		1025.01
+staff 		 35.89		999.35
+wand 		 29.86		1096.02
+
+Avg Damage All Weapon Types (CR: 5, rarity: epic): 40.96
+------------
+
+CR: 5 -- Rarity: legendary
+----------
+weapon type	 avg dam	value
+sword 		 62.88		1436.92
+bow 		 44.95		1305.51
+axe 		 61.55		1392.25
+dagger 		 47.83		1355.46
+hammer 		 72.21		1522.01
+spear 		 65.88		1480.76
+staff 		 47.87		1389.46
+wand 		 41.77		1628.75
+
+Avg Damage All Weapon Types (CR: 5, rarity: legendary): 55.62
+------------
+

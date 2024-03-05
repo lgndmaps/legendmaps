@@ -1,0 +1,18 @@
+{
+  "name": "[TEST] Knight's Kit",
+  "id": "4",
+  "rarity": "2",
+  "type": "adventurer",
+  "description": "Begin the campaign with a sword and a shield. A Legend Maps Power Up. ",
+  "image": "https://legendmaps.io/powerups/pup_plus.svg",
+  "attributes": [
+    {
+      "trait_type": "rarity",
+      "value": "rare"
+    },
+    {
+      "trait_type": "type",
+      "value": "adventurer"
+    }
+  ]
+}
